@@ -1,0 +1,8 @@
+scenario,outer_simulations,inner_resamples,blocks,n,false_confirmation_rate,null_ci_coverage,power_at_delta_minus_0007,probability_no_confirmation_at_minus_0007
+normal_iid,5000,20000,6,1000,0.0688,0.8626,0.3228,0.6772
+normal_month_icc_0005,5000,20000,6,1000,0.0732,0.8502,0.2378,0.7622
+normal_month_icc_001,5000,20000,6,1000,0.071,0.856,0.1964,0.8036
+normal_month_icc_005,5000,20000,6,1000,0.0674,0.8576,0.1252,0.8748
+normal_month_icc_001_ar05,5000,20000,6,1000,0.149,0.6928,0.2838,0.7162
+empirical_iid,5000,20000,6,1000,0.0666,0.8506,0.3034,0.6966
+empirical_month_resample,5000,20000,6,1000,0.0348,0.8018,0.136,0.864

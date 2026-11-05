@@ -1,0 +1,196 @@
+{
+  "registered_rule": "Upper endpoint of a TWO-SIDED percentile 95% month-bootstrap CI < 0.",
+  "nominal_left_tail_under_valid_interval": 0.025,
+  "note": "This is nominal 2.5%, not 5%; an upper one-sided 95% bound would target 5%. A directional CI decision can be a hypothesis test if its coverage is calibrated.",
+  "month_sizes": {
+    "2026-11": 144,
+    "2026-12": 166,
+    "2027-01": 241,
+    "2027-02": 192,
+    "2027-03": 153,
+    "2027-04": 104
+  },
+  "marginal_historical_sd": 0.19656353403397164,
+  "outer_simulations": 5000,
+  "inner_resamples": 20000,
+  "bootstrap_seed": 0,
+  "simulation_seeds": "20261105 through 20261111",
+  "exact_compression_check": true,
+  "scenarios": [
+    {
+      "scenario": "normal_iid",
+      "description": "Independent normal match differences; no month effect.",
+      "outer_simulations": 5000,
+      "inner_resamples": 20000,
+      "blocks": 6,
+      "n": 1000,
+      "false_confirmation_rate": 0.0688,
+      "false_confirmation_mc_ci95": [
+        0.06211009257017858,
+        0.07615197358723869
+      ],
+      "null_ci_coverage": 0.8626,
+      "coverage_mc_ci95": [
+        0.8527787556271099,
+        0.8718645069223349
+      ],
+      "power_at_delta_minus_0007": 0.3228,
+      "power_mc_ci95": [
+        0.3099807956047949,
+        0.3358912779645334
+      ],
+      "probability_no_confirmation_at_minus_0007": 0.6772
+    },
+    {
+      "scenario": "normal_month_icc_0005",
+      "description": "Normal shared month intercept; within-month ICC=0.005, independent months.",
+      "outer_simulations": 5000,
+      "inner_resamples": 20000,
+      "blocks": 6,
+      "n": 1000,
+      "false_confirmation_rate": 0.0732,
+      "false_confirmation_mc_ci95": [
+        0.06630341758111985,
+        0.08075189279918091
+      ],
+      "null_ci_coverage": 0.8502,
+      "coverage_mc_ci95": [
+        0.8400393982082337,
+        0.8598229033494482
+      ],
+      "power_at_delta_minus_0007": 0.2378,
+      "power_mc_ci95": [
+        0.22620352105369876,
+        0.24979906184628928
+      ],
+      "probability_no_confirmation_at_minus_0007": 0.7622
+    },
+    {
+      "scenario": "normal_month_icc_001",
+      "description": "Normal shared month intercept; within-month ICC=0.01, independent months.",
+      "outer_simulations": 5000,
+      "inner_resamples": 20000,
+      "blocks": 6,
+      "n": 1000,
+      "false_confirmation_rate": 0.071,
+      "false_confirmation_mc_ci95": [
+        0.06420576917848876,
+        0.07845291909037024
+      ],
+      "null_ci_coverage": 0.856,
+      "coverage_mc_ci95": [
+        0.8459950637905534,
+        0.8654583324245658
+      ],
+      "power_at_delta_minus_0007": 0.1964,
+      "power_mc_ci95": [
+        0.18562314927785756,
+        0.20764299934318114
+      ],
+      "probability_no_confirmation_at_minus_0007": 0.8036
+    },
+    {
+      "scenario": "normal_month_icc_005",
+      "description": "Normal shared month intercept; within-month ICC=0.05, independent months.",
+      "outer_simulations": 5000,
+      "inner_resamples": 20000,
+      "blocks": 6,
+      "n": 1000,
+      "false_confirmation_rate": 0.0674,
+      "false_confirmation_mc_ci95": [
+        0.060777546693353085,
+        0.07468666902951035
+      ],
+      "null_ci_coverage": 0.8576,
+      "coverage_mc_ci95": [
+        0.8476389405803424,
+        0.867011998988553
+      ],
+      "power_at_delta_minus_0007": 0.1252,
+      "power_mc_ci95": [
+        0.11631356900075207,
+        0.13466190037726278
+      ],
+      "probability_no_confirmation_at_minus_0007": 0.8748
+    },
+    {
+      "scenario": "normal_month_icc_001_ar05",
+      "description": "Normal shared month intercept; ICC=0.01; AR(1) correlation 0.5 across adjacent months.",
+      "outer_simulations": 5000,
+      "inner_resamples": 20000,
+      "blocks": 6,
+      "n": 1000,
+      "false_confirmation_rate": 0.149,
+      "false_confirmation_mc_ci95": [
+        0.1393994862071628,
+        0.15913944055826734
+      ],
+      "null_ci_coverage": 0.6928,
+      "coverage_mc_ci95": [
+        0.6798687754097062,
+        0.7054351987202797
+      ],
+      "power_at_delta_minus_0007": 0.2838,
+      "power_mc_ci95": [
+        0.27147322836062227,
+        0.29645872596042044
+      ],
+      "probability_no_confirmation_at_minus_0007": 0.7162
+    },
+    {
+      "scenario": "empirical_iid",
+      "description": "Independent resampling of centered observed match-level differences; heavy tails retained, dependencies removed.",
+      "outer_simulations": 5000,
+      "inner_resamples": 20000,
+      "blocks": 6,
+      "n": 1000,
+      "false_confirmation_rate": 0.0666,
+      "false_confirmation_mc_ci95": [
+        0.06001647553764848,
+        0.07384896850832705
+      ],
+      "null_ci_coverage": 0.8506,
+      "coverage_mc_ci95": [
+        0.8404499666155347,
+        0.8602117207805913
+      ],
+      "power_at_delta_minus_0007": 0.3034,
+      "power_mc_ci95": [
+        0.29081219445669787,
+        0.31628966594809865
+      ],
+      "probability_no_confirmation_at_minus_0007": 0.6966
+    },
+    {
+      "scenario": "empirical_month_resample",
+      "description": "Synthetic centered historical-month mixture: sample historical months uniformly, resample centered within-month residuals, retain month-mean heterogeneity. It is one assumed data-generating process, not proof of future dependence.",
+      "outer_simulations": 5000,
+      "inner_resamples": 20000,
+      "blocks": 6,
+      "n": 1000,
+      "false_confirmation_rate": 0.0348,
+      "false_confirmation_mc_ci95": [
+        0.03006656962326064,
+        0.04024770026642051
+      ],
+      "null_ci_coverage": 0.8018,
+      "coverage_mc_ci95": [
+        0.790520484819783,
+        0.8126161302861804
+      ],
+      "power_at_delta_minus_0007": 0.136,
+      "power_mc_ci95": [
+        0.12677754169698657,
+        0.1457813453190151
+      ],
+      "probability_no_confirmation_at_minus_0007": 0.864
+    }
+  ],
+  "limitations": [
+    "Simulations assess only specified synthetic data-generating processes; not a universal type-I error guarantee.",
+    "Shared month variance and temporal correlations are assumed scenarios, not estimated truths about future matches.",
+    "Original cohort has 6 planned calendar months, not the 24 observed historical months; rescheduling can change the eventual block count.",
+    "Only six clusters can cause serious undercoverage; registration prevents outcome-dependent changes but does not validate the statistical method.",
+    "The original protocol and frozen forecasts are unchanged. No future match outcomes used."
+  ]
+}

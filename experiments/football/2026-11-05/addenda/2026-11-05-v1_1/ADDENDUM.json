@@ -1,0 +1,58 @@
+{
+  "addendum_id": "pre_outcome_clarifications_v1_1",
+  "created_at_utc": "2026-11-05T06:51:27.594325+00:00",
+  "original_protocol_sha256": "5df2e712164dc8ba31a0e4493b33dc1d6a07c81bfe5640eef1a3f94bea712030",
+  "original_registration_commit": "10ba208319d6b1f1d109331e5c99188fb680a222",
+  "does_not_modify": "Original protocol bytes, model weights, cohort membership, original 144 forecasts, and first rolling batch are unchanged. This separate pre-outcome addendum defines operational eligibility/deadline rules and downgrades inferential wording in light of the simulation audit.",
+  "statistical_interpretation": {
+    "original_numerical_rule_retained": true,
+    "nominal_tail": 0.025,
+    "planned_month_blocks": 6,
+    "simulated_false_confirmation_normal_iid": 0.0688,
+    "simulated_false_confirmation_month_ar": 0.149,
+    "inference_policy": "A crossing of the registered numerical threshold will be reported as a pilot rule firing, NOT as validated statistical confirmation at a nominal 2.5% or 5% error rate. The procedure showed undercoverage in plausible synthetic scenarios. A future confirmatory experiment needs its own pre-outcome validated design, not a post-hoc replacement of this rule.",
+    "power_statement": "In the specified synthetic scenarios, rule firing at true delta=-0.007 is roughly 13% to 32%; non-confirmation is common, not predetermined. These are assumed scenarios, not guaranteed power for future data."
+  },
+  "market_eligibility": {
+    "fields_ADH": [
+      "AvgCA",
+      "AvgCD",
+      "AvgCH"
+    ],
+    "all_three_required": true,
+    "valid_decimal_odds": "All finite and strictly greater than 1.",
+    "sum_inverse_odds_band": [
+      1.0,
+      1.2
+    ],
+    "boundary_tolerance": 1e-12,
+    "outside_band": "Flag as ineligible for primary future market comparison; not necessarily a proven source error. Preserve raw values and reason. No guessed correction, opening substitution or bookmaker fallback.",
+    "duplicates": "Exact match identity and completed score must agree. Ambiguous or conflicting source rows are ineligible; no cherry-picking a price.",
+    "snapshot": "Record one pinned closing-data snapshot and its retrieval time/hash before running final comparison; later revisions are separate sensitivity analyses.",
+    "coverage_denominator": 1000,
+    "minimum_valid_closing_rows": 950,
+    "covered_subset": "Both model and market scored on exactly the same eligible rows. List every excluded fixture/reason.",
+    "historical_3956": "Historical primary benchmark remains unchanged, including the flagged row. New eligibility rule is prospective only."
+  },
+  "cohort_and_deadline": {
+    "fixed_cohort": 1000,
+    "last_original_scheduled_date": "2027-04-17",
+    "administrative_cutoff_utc": "2027-06-30T23:59:59Z",
+    "final_analysis": "One analysis once all 1000 games have completed eligible outcomes and all 1000 admissible pre-match forecasts are evidenced; if not available by cutoff, close as incomplete. No replacing games, extending until significance, or treating missing outcomes as zeros.",
+    "postponed": "Keep cohort identity and first admissible forecast; include an eventual completed outcome through cutoff even after Apr 17. Note original and actual dates.",
+    "cancelled_or_unplayed_awarded": "Keep in fixed denominator. No invented outcome. Report missing/void reason; no confirmatory claim for an incomplete cohort.",
+    "no_published_forecast": "Remains in denominator and is missing, never reconstructed after kickoff. No replacement fixture.",
+    "missing_market": "Counts against 1000-row closing-coverage denominator; market comparison cannot run below 950 valid rows.",
+    "cutoff_status": "After cutoff, completed results may be descriptively summarized with exact numerator/denominator, but an incomplete experiment does not acquire a superiority conclusion."
+  },
+  "publication_verification": {
+    "required": "For each batch, exact full commit ID and content hashes plus a platform/server publication timestamp strictly before actual kickoff. Git author/committer dates alone do not prove publication time.",
+    "server_example": "GitHub public activity pushedAt, referencing the commit that first published the file. Original push verified at 2026-11-05T06:30:43.000Z.",
+    "hash_check": "Read pinned public commit; hash forecast bytes, features, protocol reference and model references. Later commits cannot replace first admissible published forecast.",
+    "late_or_unverifiable": "Missing proof of pre-kickoff publication is missing forecast coverage, not silently accepted.",
+    "original_evidence": "original_publication_server_evidence.json"
+  },
+  "simulation_report_sha256": "1f559acb9386e385472562bac2324c2279a7e7ed7de9971f969da2ac49d4df1b",
+  "rule_code_sha256": "ea6505c63084c2cb4aa7d7a82f8a42188c079b0a766172bfe6e85500a0474790",
+  "automation": "No future background scheduler/publication configured; operator still required."
+}
