@@ -1,0 +1,13 @@
+{
+  "experiment_id": "prospective_rolling_1000_v1",
+  "generated_at_utc": "2026-11-05T06:29:48.941381+00:00",
+  "forecast_date": "2026-11-06",
+  "n": 5,
+  "protocol_sha256": "5df2e712164dc8ba31a0e4493b33dc1d6a07c81bfe5640eef1a3f94bea712030",
+  "data_sha256": "5151c74acc9e20186bbc168ab479abdf046fee9f3392246dac20fa901c105bb3",
+  "data_through": "2026-11-02",
+  "feature_cutoff_exclusive": "2026-11-05",
+  "forecasts_sha256": "422c20c37ae71e56a5327358334d067b88344b7e8dce507231e09dc5ca9fe485",
+  "features_sha256": "f44604625c9a6d6ebb5246be5fd58d16e4a01fc0c34d1a6c93fbbc5dfc38064f",
+  "publication_status": "Local only until public pre-kickoff receipt/commit is recorded. Do not treat local time as independent proof."
+}

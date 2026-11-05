@@ -1,0 +1,85 @@
+{
+  "experiment_id": "prospective_rolling_1000_v1",
+  "registered_at_utc": "2026-11-05T06:29:48.529836+00:00",
+  "n_fixed_cohort": 1000,
+  "window_start": "2026-11-06",
+  "window_end_scheduled": "2027-04-17",
+  "cohort_selection": "First 1000 future fixtures in pinned snapshot, sorted by original scheduled_date, league, fixture_id; set is never extended to replace missing forecasts.",
+  "source_commit": "06b3cf482d7e8e24912994739368f1764bb7bf54",
+  "models": {
+    "primary": "Unmodified boosting_small production refit through 2026-11-02",
+    "comparator": "Unmodified logistic_since2010 production refit through 2026-11-02",
+    "no_calibration": true,
+    "no_refitting": true
+  },
+  "forecast_policy": {
+    "generation": "Before 12:00 UTC on the day before the scheduled match date. First publicly recorded forecast wins; local timestamps alone are insufficient.",
+    "features": "Rolling results strictly BEFORE the UTC generation calendar date; no outcomes from generation day or later. Weights, preprocessing, formulas remain fixed.",
+    "publication": "Each batch hash and protocol hash must be publicly recorded before kickoff; missing proof makes coverage incomplete.",
+    "rescheduling": "Keep fixture identity and first admissible published forecast. Report original and actual dates. No outcome-dependent exclusions or replacement fixtures.",
+    "new_versions": "Any weight/calibration/feature change is a separate registered experiment; it does not replace this one."
+  },
+  "evaluation": {
+    "final_only": "Evaluate only once all 1000 cohort games have outcomes AND 1000 admissible pre-match forecasts are publicly evidenced. Otherwise report incomplete coverage without a confirmatory claim. No optional stopping or adding games until significance.",
+    "primary_metric": "Mean paired log loss difference: boosting minus logistic_since2010",
+    "primary_interval": "Paired cluster bootstrap by calendar month of actual match date; resample all observed months with replacement, count-weighted match mean; 20000 repetitions, seed=0, percentile 95% CI.",
+    "decision": "Boosting counts as better only if upper endpoint of the primary 95% CI is strictly below zero. Otherwise superiority is not established; zero-crossing is not proof of equivalence.",
+    "market_secondary": "Only after primary criterion passes, compare boosting vs AvgCH/AvgCD/AvgCA closing probabilities with multiplicative margin removal on the identical covered subset, using the same monthly interval. Require >=95% valid closing coverage and upper endpoint <0 for a market-superiority statement restricted to that subset. No profitability inference.",
+    "odds_missing": "No fallback to opening odds or different providers; list unmatched/invalid rows, compare models only on the identical market-covered subset.",
+    "diagnostics": [
+      "Classwise Brier vs frozen league frequency baseline",
+      "Season/league point estimates",
+      "Calibration tables without fitting new calibration on prospective outcomes"
+    ],
+    "small_block_warning": "Report number of month blocks; a small number of blocks limits bootstrap reliability even if nominal criterion passes."
+  },
+  "power": {
+    "assumed_effect": 0.007,
+    "observed_historical_sd": 0.19656353403397164,
+    "se_at_1000_independent": 0.006215884724793754,
+    "n_ci_halfwidth_independent": 3030,
+    "n_80pct_power_two_sided_independent": 6189,
+    "n_1000_is_pilot_not_power_guarantee": true,
+    "dependence_and_drift": "These are approximate independent stationary calculations; dependencies may require more data."
+  },
+  "frozen_baseline_probabilities": {
+    "de.1": {
+      "A": 0.3083886541943271,
+      "D": 0.24421645544156106,
+      "H": 0.44739489036411184
+    },
+    "en.1": {
+      "A": 0.2872765668602459,
+      "D": 0.2565804359303115,
+      "H": 0.4561429972094426
+    },
+    "es.1": {
+      "A": 0.2858983799705449,
+      "D": 0.2534977908689249,
+      "H": 0.46060382916053016
+    },
+    "fr.1": {
+      "A": 0.30502198565146954,
+      "D": 0.2531821337653321,
+      "H": 0.44179588058319835
+    },
+    "it.1": {
+      "A": 0.3174697600634543,
+      "D": 0.255998413642673,
+      "H": 0.4265318262938727
+    }
+  },
+  "locked_file_sha256": {
+    "cohort.csv": "7bf7873dea19bb2ecea307ebf4ab5032784801bce7095c172f71455d6e7f8a27",
+    "fixture_aliases.json": "da7f1565887938ea1b20d46c4c2c4dfd89e07974403a3044aa6a239914bc34bb",
+    "models/boosting_primary.joblib": "7466a1afe9080554b98e01f8c362f8631071ce09d40ba0db1091ba87ddaeb6e3",
+    "models/logistic_challenger.joblib": "342cd4f9205c4c29394a91bc0681c6b2dec73f4dc4889fce316779692e95a21a"
+  },
+  "code_sha256": {
+    "prospective_daily.py": "aa9963a1fb23d3ad0c549e0152bd5f6be71d18339f51b6a27815f828fda073b2",
+    "model_utils.py": "f752bfc31e53a5e21c5042de8f24ca3082bc2ba52a0e21b6970dc29e40c4277d"
+  },
+  "relation_to_144": "Existing 144-match static-feature snapshot remains unchanged and is a separate pilot. This main experiment uses rolling past-result features, never mixes versions post-hoc.",
+  "automation_status": "No background scheduler or future automatic publication configured. Future daily generation/publication requires an operator.",
+  "timestamp_note": "Local creation is not independent proof. Public remote commit and receipt are recorded separately."
+}

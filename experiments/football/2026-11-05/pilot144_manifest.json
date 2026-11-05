@@ -1,0 +1,72 @@
+{
+  "generated_at_utc": "2026-11-05T06:17:41.893467+00:00",
+  "generated_at_irkutsk": "2026-11-05T14:17:41.893467+08:00",
+  "primary": "existing_boosting_small",
+  "challenger": "logistic_since2010_C1",
+  "selection_note": "Originally selected boosting is retained without modification; logistic is a prespecified future comparator. Historical bootstrap intervals exclude zero, but remain post-hoc. No model or calibration is selected using future outcomes.",
+  "n": 144,
+  "window_start": "2026-11-06",
+  "window_end": "2026-11-30",
+  "feature_data_through": "2026-11-02",
+  "primary_training_rows": 33011,
+  "challenger_training_rows": 26109,
+  "calibration": "none; probability shrinkage not tuned",
+  "class_order": [
+    "A",
+    "D",
+    "H"
+  ],
+  "protocol": {
+    "primary_metric": "multiclass log loss",
+    "secondary_metrics": [
+      "per-class Brier vs frozen league priors",
+      "accuracy",
+      "paired difference vs challenger"
+    ],
+    "feature_policy": "All predictions and features frozen now through Nov 2; no daily updates or model refits for this batch.",
+    "scheduled_evaluation": "After 2026-12-01 and all scored fixtures have finished, allowing postponements.",
+    "outcome_matching": "Exact league, season, canonical home and away names. Handle date changes explicitly; never silently drop unresolved fixtures.",
+    "unfinished": "Pending, not losses or zero goals. Report every unmatched and postponed fixture.",
+    "first_forecast_policy": "Never overwrite original predictions. Any revised forecast gets a separate experiment ID.",
+    "timezone_note": "Source kickoff times retained unconverted; every selected fixture has a future calendar date after snapshot date."
+  },
+  "source": {
+    "repository": "https://github.com/oladeeayo/open-matchday",
+    "commit": "06b3cf482d7e8e24912994739368f1764bb7bf54",
+    "archive_sha256": "840d6c1931b357aea29146bcbbffa6f24f8b9189aadb396076fbeaa704fb24db",
+    "fixture_file_sha256": {
+      "open-matchday-master/data/ENG_1_premier-league/fixtures_2627.csv": "1715a1a0cc543ebcf9f1fd4ff840a3e153665d5ea33da1b4c53f42fc601b0497",
+      "open-matchday-master/data/GER_1_bundesliga/fixtures_2627.csv": "1241229b6e3705e47f726523f47e94d3c166c7fc476cf56896c0ed90bc77d3c7",
+      "open-matchday-master/data/ESP_1_la-liga/fixtures_2627.csv": "c9997c7725e7339fcebd96be48b1f9d6da68e531ef8557364be3e8f15f7678fc",
+      "open-matchday-master/data/ITA_1_serie-a/fixtures_2627.csv": "f5e9b5af4f9d0f0ec6fd11be52ec824650982fa5f01a4501284da2f75d259375",
+      "open-matchday-master/data/FRA_1_ligue-1/fixtures_2627.csv": "9c3ee1726a191d453cf25eb84ba0a28cdbd799a45beb8eeb95c09e11fb1e794e"
+    }
+  },
+  "training_data_sha256": "9ca9ae16ddfcc0ad71d85b9b35c6adef73e659ac2f70bc491a88ee256d59aa45",
+  "comparison": {
+    "mean_log_loss_difference": -0.006890680510266084,
+    "match_bootstrap_ci95": [
+      -0.012714885234568618,
+      -0.0007857716433282071
+    ],
+    "week_cluster_bootstrap_ci95": [
+      -0.013344451453578255,
+      -0.0009974457724523512
+    ],
+    "weeks": 85,
+    "n": 3956,
+    "bootstrap_replicates": 2000,
+    "seed": 0,
+    "sign": "negative favours boosting; positive favours logistic",
+    "boosting_log_loss": 1.0163598809598235,
+    "logistic_log_loss": 1.0232505614700897
+  },
+  "sha256": {
+    "fixtures.csv": "8ade6ee7e68a11550a2f2dfbdd5a7295c21e8e1eb0d56304d1a35004fdfad4d5",
+    "forecasts.csv": "a4754f0f0382bed1725dcee3276b6253c7d1333948af7b5d928d1fc605e2562c",
+    "frozen_features.csv": "8c238a7cbcd6ab8138307802a6ab1d631011337fe2492d43bcb612761693ba53",
+    "models/boosting_primary.joblib": "7466a1afe9080554b98e01f8c362f8631071ce09d40ba0db1091ba87ddaeb6e3",
+    "models/logistic_challenger.joblib": "342cd4f9205c4c29394a91bc0681c6b2dec73f4dc4889fce316779692e95a21a"
+  },
+  "timestamp_limit": "Local timestamp and hashes, not an independent public timestamp or remote preregistration. This snapshot is delivered in chat before the scheduled matches."
+}

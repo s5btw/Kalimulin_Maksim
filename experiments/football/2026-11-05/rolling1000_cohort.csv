@@ -1,0 +1,1001 @@
+fixture_id,league,season,scheduled_date,home_team,away_team
+a45877af991a4e12c7f0,de.1,2026-27,2026-11-06,Hamburger SV,Borussia Mönchengladbach
+b70fdfc772e0459107c1,en.1,2026-27,2026-11-06,Everton FC,Coventry City FC
+bf09b07a306d420eb9ef,es.1,2026-27,2026-11-06,Sevilla FC,Deportivo Alavés
+1651d1fc48baf4a26597,fr.1,2026-27,2026-11-06,Toulouse FC,RC Strasbourg Alsace
+a8f5f3ce5b55f7af4e9a,it.1,2026-27,2026-11-06,Venezia FC,Udinese Calcio
+1cf4f95f291b4fcd9620,de.1,2026-27,2026-11-07,SC Paderborn 07,Eintracht Frankfurt
+1fc4183909531b5d3c94,de.1,2026-27,2026-11-07,VfB Stuttgart,SV Werder Bremen
+7257a11413b119d6301a,de.1,2026-27,2026-11-07,RB Leipzig,FC Augsburg
+82b77839d21c0ac9b672,de.1,2026-27,2026-11-07,Borussia Dortmund,SV 07 Elversberg
+f2f4cfe76b23ff6d0448,de.1,2026-27,2026-11-07,1. FSV Mainz 05,FC Bayern München
+69e44343ccf2e129c6dc,en.1,2026-27,2026-11-07,Arsenal FC,Hull City AFC
+846e32a3252b96b4d874,en.1,2026-27,2026-11-07,Nottingham Forest FC,Manchester City FC
+c9e3e9ed46321f0ce085,en.1,2026-27,2026-11-07,Fulham FC,Newcastle United FC
+ca2e13b8846dc6bbc025,en.1,2026-27,2026-11-07,Leeds United FC,Tottenham Hotspur FC
+215e6cd1e179d76be21e,es.1,2026-27,2026-11-07,Valencia CF,Real Madrid CF
+2ffc4ef35aa441e2eaf6,es.1,2026-27,2026-11-07,RCD Espanyol de Barcelona,RC Deportivo La Coruña
+3418f9605e2a589c5bef,es.1,2026-27,2026-11-07,Málaga CF,Real Racing Club de Santander
+7cc4d41ef354fe365ad8,es.1,2026-27,2026-11-07,CA Osasuna,Athletic Club
+32a4a4c441edbc260774,fr.1,2026-27,2026-11-07,AJ Auxerre,Paris FC
+fe7788e494966968df4d,fr.1,2026-27,2026-11-07,Paris Saint-Germain FC,ES Troyes AC
+03be31ab8502a37d63f6,it.1,2026-27,2026-11-07,Parma Calcio 1913,Bologna FC 1909
+104bf0b97949d3c3d1b8,it.1,2026-27,2026-11-07,Cagliari Calcio,Frosinone Calcio
+4d72286cf04d7b0a9722,it.1,2026-27,2026-11-07,Torino FC,US Lecce
+646a316a301d85e57f4b,it.1,2026-27,2026-11-07,AS Roma,US Sassuolo Calcio
+270d01064dbe1d2f15c7,de.1,2026-27,2026-11-08,TSG 1899 Hoffenheim,FC Schalke 04
+3cc491ff48cc8aca9099,de.1,2026-27,2026-11-08,SC Freiburg,1. FC Union Berlin
+ad16027851ec2346de37,de.1,2026-27,2026-11-08,1. FC Köln,Bayer 04 Leverkusen
+509d546fa7c252620b51,en.1,2026-27,2026-11-08,Sunderland AFC,Chelsea FC
+79563b272dc5f0834127,en.1,2026-27,2026-11-08,Ipswich Town FC,AFC Bournemouth
+c63b7916c6672dfc7005,en.1,2026-27,2026-11-08,Manchester United FC,Aston Villa FC
+f60f221d0a3312015ca3,en.1,2026-27,2026-11-08,Crystal Palace FC,Liverpool FC
+ff75487791afaa111e4c,en.1,2026-27,2026-11-08,Brighton & Hove Albion FC,Brentford FC
+1b58c94d2a50e9f9576e,es.1,2026-27,2026-11-08,Villarreal CF,Getafe CF
+a327d41d9c91493faa72,es.1,2026-27,2026-11-08,RC Celta de Vigo,Levante UD
+c77eea441b4ba08a5f95,es.1,2026-27,2026-11-08,Elche CF,Real Betis Balompié
+ca1b7c0538ab8a916f75,es.1,2026-27,2026-11-08,Real Sociedad de Fútbol,Rayo Vallecano de Madrid
+d479b306853ad8212fd0,es.1,2026-27,2026-11-08,Club Atlético de Madrid,FC Barcelona
+14314825b722a8638b43,fr.1,2026-27,2026-11-08,Le Mans FC,AS Monaco FC
+34ddd72b31667b6418bf,fr.1,2026-27,2026-11-08,Angers SCO,OGC Nice
+4ad0d6cb4530a5bb9dd1,fr.1,2026-27,2026-11-08,Stade Rennais FC 1901,Lille OSC
+5068944e7459fb58d43b,fr.1,2026-27,2026-11-08,Stade Brestois 29,Olympique Lyonnais
+a3e89046001ce0bad45c,fr.1,2026-27,2026-11-08,Racing Club de Lens,Olympique de Marseille
+e2e4e919c2db84231e40,fr.1,2026-27,2026-11-08,Le Havre AC,FC Lorient
+6090da71e50faaaee14b,it.1,2026-27,2026-11-08,AC Monza,Atalanta BC
+63ed3c107826edb7075a,it.1,2026-27,2026-11-08,Genoa CFC,AC Milan
+68360c6bd9ae8030a499,it.1,2026-27,2026-11-08,SSC Napoli,SS Lazio
+a92c5c5087a332e7eb11,it.1,2026-27,2026-11-08,ACF Fiorentina,Juventus FC
+aab6a22a13a118873036,it.1,2026-27,2026-11-08,FC Internazionale Milano,Como 1907
+c3e523998bcb94fa2ed2,de.1,2026-27,2026-11-20,FC Bayern München,1. FC Köln
+13d977eff18474612eae,es.1,2026-27,2026-11-20,Athletic Club,RCD Espanyol de Barcelona
+6010d8be40cf31ea4146,fr.1,2026-27,2026-11-20,ES Troyes AC,Le Havre AC
+28ee42d531ffff19814b,de.1,2026-27,2026-11-21,Borussia Mönchengladbach,Borussia Dortmund
+2dc7e5e1d3e9d3121b82,de.1,2026-27,2026-11-21,SV 07 Elversberg,SC Freiburg
+5879186f58d2ecb04c82,de.1,2026-27,2026-11-21,1. FC Union Berlin,RB Leipzig
+c8cadff5477d70bf14ec,de.1,2026-27,2026-11-21,Bayer 04 Leverkusen,SC Paderborn 07
+d902043b2534242628e0,de.1,2026-27,2026-11-21,Eintracht Frankfurt,TSG 1899 Hoffenheim
+e01eccb0396bfaa60e1d,de.1,2026-27,2026-11-21,FC Schalke 04,VfB Stuttgart
+2ac5ac97466aa0bab784,en.1,2026-27,2026-11-21,Coventry City FC,Crystal Palace FC
+5720c824a067d0efe465,en.1,2026-27,2026-11-21,Newcastle United FC,Arsenal FC
+6ab028d7723c1a2c8b45,en.1,2026-27,2026-11-21,Chelsea FC,Leeds United FC
+8cc0fc1bdd5e27beda1d,en.1,2026-27,2026-11-21,Tottenham Hotspur FC,Ipswich Town FC
+90fd8977b43ba32cec11,en.1,2026-27,2026-11-21,Manchester City FC,Fulham FC
+9a68d113f183b34255a4,en.1,2026-27,2026-11-21,AFC Bournemouth,Nottingham Forest FC
+9c389d71fb90db8167cc,en.1,2026-27,2026-11-21,Aston Villa FC,Sunderland AFC
+5384fd745f568c83fd95,es.1,2026-27,2026-11-21,Deportivo Alavés,RC Deportivo La Coruña
+6b466a7d7dd1ec2eecce,es.1,2026-27,2026-11-21,Rayo Vallecano de Madrid,Valencia CF
+d9447baa31e2dfed98e1,es.1,2026-27,2026-11-21,Real Madrid CF,RC Celta de Vigo
+dabbedd17acc13ba0b53,es.1,2026-27,2026-11-21,Sevilla FC,Real Betis Balompié
+18315acfb4ef644080f5,fr.1,2026-27,2026-11-21,Lille OSC,Olympique Lyonnais
+3870e0c6210ca3bec638,fr.1,2026-27,2026-11-21,RC Strasbourg Alsace,Stade Brestois 29
+462d1de1a5b70ab08fd8,fr.1,2026-27,2026-11-21,AS Monaco FC,AJ Auxerre
+642e24f77a7de8f4d5af,fr.1,2026-27,2026-11-21,OGC Nice,Paris Saint-Germain FC
+f58ca38b80497c6e9781,fr.1,2026-27,2026-11-21,Racing Club de Lens,Toulouse FC
+0786b2f712e37be42a33,it.1,2026-27,2026-11-21,Como 1907,Cagliari Calcio
+9906e7c5e8b17350dc00,it.1,2026-27,2026-11-21,Parma Calcio 1913,AS Roma
+aa22a9d8bdb504bf5477,it.1,2026-27,2026-11-21,SSC Napoli,Torino FC
+fa7982e7dae01cb5b658,it.1,2026-27,2026-11-21,SS Lazio,US Lecce
+844afab10beb08f17a6a,de.1,2026-27,2026-11-22,FC Augsburg,1. FSV Mainz 05
+b54dd0763afcc5466a0b,de.1,2026-27,2026-11-22,SV Werder Bremen,Hamburger SV
+12b6c800774a3005a4a2,en.1,2026-27,2026-11-22,Hull City AFC,Brighton & Hove Albion FC
+bf99c138730ed23f65f9,en.1,2026-27,2026-11-22,Liverpool FC,Manchester United FC
+1298706730bbdc784634,es.1,2026-27,2026-11-22,Getafe CF,Club Atlético de Madrid
+2872ae6d55eb516d5e78,es.1,2026-27,2026-11-22,Real Racing Club de Santander,Real Sociedad de Fútbol
+3b3a4ad9923d16563c17,es.1,2026-27,2026-11-22,FC Barcelona,Villarreal CF
+c0680c7e57cb30df0734,es.1,2026-27,2026-11-22,CA Osasuna,Málaga CF
+2403714162ed170c1f29,fr.1,2026-27,2026-11-22,FC Lorient,Stade Rennais FC 1901
+5e4227e160de8fdf84ca,fr.1,2026-27,2026-11-22,Paris FC,Angers SCO
+fad9c607b6487cbfe1b5,fr.1,2026-27,2026-11-22,Olympique de Marseille,Le Mans FC
+2ec1b9090bff6b65517e,it.1,2026-27,2026-11-22,US Sassuolo Calcio,Genoa CFC
+357a4e88b11bb474c3f4,it.1,2026-27,2026-11-22,AC Milan,Frosinone Calcio
+a1d0f768841b08db6c62,it.1,2026-27,2026-11-22,Bologna FC 1909,Udinese Calcio
+a6a3eb2b486165605ac8,it.1,2026-27,2026-11-22,Juventus FC,Venezia FC
+bd2c6769c4d119fabb0b,it.1,2026-27,2026-11-22,Atalanta BC,FC Internazionale Milano
+e9b7114127a1f3e9a786,en.1,2026-27,2026-11-23,Brentford FC,Everton FC
+c53240400ad849a9e624,es.1,2026-27,2026-11-23,Levante UD,Elche CF
+81e33b5c0635f2ce0124,it.1,2026-27,2026-11-23,AC Monza,ACF Fiorentina
+df60b6196823b4fedea3,de.1,2026-27,2026-11-27,SV Werder Bremen,Borussia Mönchengladbach
+7b12e66ce2542c5bb7b6,en.1,2026-27,2026-11-27,Nottingham Forest FC,Chelsea FC
+95abf029739caa97687a,fr.1,2026-27,2026-11-27,Stade Brestois 29,Paris FC
+253e507e158fda723c85,it.1,2026-27,2026-11-27,Venezia FC,Bologna FC 1909
+40b65d4deede1e4155bf,de.1,2026-27,2026-11-28,Hamburger SV,FC Bayern München
+b3f5e4b07afcc89df353,de.1,2026-27,2026-11-28,SC Paderborn 07,FC Schalke 04
+c0058f17f71653ac893e,de.1,2026-27,2026-11-28,1. FC Köln,SV 07 Elversberg
+deb1c431d37074484eda,de.1,2026-27,2026-11-28,1. FSV Mainz 05,1. FC Union Berlin
+f689bb2275bde0aca5e1,de.1,2026-27,2026-11-28,VfB Stuttgart,Eintracht Frankfurt
+1e01061d5cc0e24c2532,en.1,2026-27,2026-11-28,Leeds United FC,Coventry City FC
+ed08be50e331216cc79b,en.1,2026-27,2026-11-28,Ipswich Town FC,Aston Villa FC
+ffb77d5032c27257fd96,en.1,2026-27,2026-11-28,Manchester United FC,Brentford FC
+145a60c365e72513890b,fr.1,2026-27,2026-11-28,OGC Nice,ES Troyes AC
+3154c2b62dfd0407aa35,fr.1,2026-27,2026-11-28,Paris Saint-Germain FC,FC Lorient
+56b9bde4be48b11e5bff,fr.1,2026-27,2026-11-28,Le Mans FC,Lille OSC
+bdd412b491896c4fc7fc,fr.1,2026-27,2026-11-28,Le Havre AC,RC Strasbourg Alsace
+fa0b6b94393a8d0575a7,fr.1,2026-27,2026-11-28,Angers SCO,Racing Club de Lens
+26e556882bf67bb7f9cd,it.1,2026-27,2026-11-28,FC Internazionale Milano,Genoa CFC
+c63c4b5f0bd55dd51ee8,it.1,2026-27,2026-11-28,Torino FC,SS Lazio
+c7ef03929844b87fd2b7,it.1,2026-27,2026-11-28,Frosinone Calcio,Parma Calcio 1913
+382b54be465717f4383c,de.1,2026-27,2026-11-29,TSG 1899 Hoffenheim,FC Augsburg
+ec87a65d0271c7353685,de.1,2026-27,2026-11-29,Borussia Dortmund,Bayer 04 Leverkusen
+f6f1112aeaeb6b164fdd,de.1,2026-27,2026-11-29,SC Freiburg,RB Leipzig
+128b3ff39857a6b62255,en.1,2026-27,2026-11-29,Sunderland AFC,Tottenham Hotspur FC
+182a936898901cf6bf84,en.1,2026-27,2026-11-29,Everton FC,Liverpool FC
+759cf6643d4fa336f1e6,en.1,2026-27,2026-11-29,Brighton & Hove Albion FC,Newcastle United FC
+b77a55bc32cbfd502895,en.1,2026-27,2026-11-29,Fulham FC,AFC Bournemouth
+f77a025801b1d19f3691,en.1,2026-27,2026-11-29,Crystal Palace FC,Hull City AFC
+ff6a521a56475d6ce01d,en.1,2026-27,2026-11-29,Arsenal FC,Manchester City FC
+1ebd5007c721abb52eef,es.1,2026-27,2026-11-29,Málaga CF,Athletic Club
+2b8f24e0fef276f04b7b,es.1,2026-27,2026-11-29,Levante UD,Real Racing Club de Santander
+34a2ccf2416f836e2894,es.1,2026-27,2026-11-29,Real Madrid CF,Deportivo Alavés
+4ac3865a5e000fa03232,es.1,2026-27,2026-11-29,RCD Espanyol de Barcelona,Getafe CF
+520618a79c89c8012255,es.1,2026-27,2026-11-29,Real Sociedad de Fútbol,Sevilla FC
+53ae36e5abdb021fc65d,es.1,2026-27,2026-11-29,RC Deportivo La Coruña,FC Barcelona
+5874e53edaf4a4770fe6,es.1,2026-27,2026-11-29,Valencia CF,CA Osasuna
+a19dfa9841a57bed9069,es.1,2026-27,2026-11-29,Elche CF,Club Atlético de Madrid
+d26502455ac6486a39b6,es.1,2026-27,2026-11-29,Real Betis Balompié,Rayo Vallecano de Madrid
+fac322d7ecd76ea99f01,es.1,2026-27,2026-11-29,RC Celta de Vigo,Villarreal CF
+235de93ee37ba812733a,fr.1,2026-27,2026-11-29,AJ Auxerre,Olympique de Marseille
+27f71784d069b6248014,fr.1,2026-27,2026-11-29,Olympique Lyonnais,AS Monaco FC
+bd0396d04e7c24b6cedd,fr.1,2026-27,2026-11-29,Toulouse FC,Stade Rennais FC 1901
+4fa84cc3bb4b04ef7fcb,it.1,2026-27,2026-11-29,Como 1907,Juventus FC
+93492e2d291e0708034b,it.1,2026-27,2026-11-29,US Sassuolo Calcio,SSC Napoli
+9d14be5cf10807f4045f,it.1,2026-27,2026-11-29,Udinese Calcio,ACF Fiorentina
+f433afedb58b035fd563,it.1,2026-27,2026-11-29,AS Roma,AC Monza
+354ae31d0cb8f739799a,it.1,2026-27,2026-11-30,US Lecce,Atalanta BC
+8bbec69a0b8b6c6d7952,it.1,2026-27,2026-11-30,Cagliari Calcio,AC Milan
+155aa232c14dd51702c9,en.1,2026-27,2026-12-01,Coventry City FC,Ipswich Town FC
+222d9b521d6bdf410cde,en.1,2026-27,2026-12-02,AFC Bournemouth,Brighton & Hove Albion FC
+244dd7ecb2e7d5c5d1fe,en.1,2026-27,2026-12-02,Chelsea FC,Crystal Palace FC
+503740d5eb4d541432e3,en.1,2026-27,2026-12-02,Newcastle United FC,Manchester United FC
+6c599c134beb7d0d5ea4,en.1,2026-27,2026-12-02,Hull City AFC,Nottingham Forest FC
+8f23d9491bc55c48b556,en.1,2026-27,2026-12-02,Liverpool FC,Sunderland AFC
+a3481a069b5ccf203313,en.1,2026-27,2026-12-02,Aston Villa FC,Everton FC
+e7198b9239fc271db53d,en.1,2026-27,2026-12-02,Brentford FC,Arsenal FC
+fd67f24a89314945562a,en.1,2026-27,2026-12-02,Manchester City FC,Leeds United FC
+091fb9e1b85358ab6366,en.1,2026-27,2026-12-03,Tottenham Hotspur FC,Fulham FC
+76fe0cae4b0f98548403,fr.1,2026-27,2026-12-04,Toulouse FC,Paris Saint-Germain FC
+39f3cbe044e6e2e6cbed,it.1,2026-27,2026-12-04,Bologna FC 1909,AS Roma
+0fd22bf01035f9bf58b4,de.1,2026-27,2026-12-05,SC Freiburg,TSG 1899 Hoffenheim
+2bd67ddb357a05a4d85d,de.1,2026-27,2026-12-05,Eintracht Frankfurt,SV Werder Bremen
+48a64bb16ce5e18ae9c2,de.1,2026-27,2026-12-05,Bayer 04 Leverkusen,Borussia Mönchengladbach
+8cdc79417a0e6d9728bb,de.1,2026-27,2026-12-05,FC Bayern München,SC Paderborn 07
+8eda6730eacb861cdf50,de.1,2026-27,2026-12-05,1. FC Union Berlin,Hamburger SV
+9bc2945c687f0952a22c,de.1,2026-27,2026-12-05,FC Augsburg,1. FC Köln
+b1fa47c0ba8f154eeb38,de.1,2026-27,2026-12-05,RB Leipzig,1. FSV Mainz 05
+c1d478de73c4d5e3c821,de.1,2026-27,2026-12-05,FC Schalke 04,Borussia Dortmund
+da20f950bcf9ea97498a,de.1,2026-27,2026-12-05,SV 07 Elversberg,VfB Stuttgart
+0a46fe92e91c3e4cba72,en.1,2026-27,2026-12-05,Nottingham Forest FC,Brighton & Hove Albion FC
+6df350ede57a82130de5,en.1,2026-27,2026-12-05,Aston Villa FC,Crystal Palace FC
+7fb93fddef9c64e6b5d0,en.1,2026-27,2026-12-05,Chelsea FC,Liverpool FC
+9c74158ced1e3aed924e,en.1,2026-27,2026-12-05,AFC Bournemouth,Hull City AFC
+c5c0b2b0ad13de8656cb,en.1,2026-27,2026-12-05,Brentford FC,Manchester City FC
+d4cd6aa266cb42534a08,en.1,2026-27,2026-12-05,Leeds United FC,Ipswich Town FC
+e2245c59a76127e6e096,en.1,2026-27,2026-12-05,Manchester United FC,Coventry City FC
+0ac6b635b3be5db686c5,fr.1,2026-27,2026-12-05,Paris FC,Le Mans FC
+2ffc50c6aa2056af63c0,fr.1,2026-27,2026-12-05,Racing Club de Lens,Le Havre AC
+4927231a8fcb442ff330,fr.1,2026-27,2026-12-05,AS Monaco FC,Angers SCO
+9c336a66f70addcee8a4,fr.1,2026-27,2026-12-05,Lille OSC,AJ Auxerre
+c8dff87a376e70a1f478,fr.1,2026-27,2026-12-05,RC Strasbourg Alsace,FC Lorient
+25f847d7bfd332c5d4d5,it.1,2026-27,2026-12-05,Frosinone Calcio,FC Internazionale Milano
+b891277d130080b03c84,it.1,2026-27,2026-12-05,AC Monza,Como 1907
+e11c5b7c15b111324f80,it.1,2026-27,2026-12-05,SSC Napoli,US Lecce
+070fb17e84b8483db16d,en.1,2026-27,2026-12-06,Tottenham Hotspur FC,Arsenal FC
+2c098e156d7ef6570be5,en.1,2026-27,2026-12-06,Everton FC,Fulham FC
+32bd682b44913791c3f3,en.1,2026-27,2026-12-06,Newcastle United FC,Sunderland AFC
+01eadf62dd94853d355a,es.1,2026-27,2026-12-06,CA Osasuna,Elche CF
+190a1f5110e65fd8fde4,es.1,2026-27,2026-12-06,Club Atlético de Madrid,Real Betis Balompié
+1cec2207c3a464e6a0a8,es.1,2026-27,2026-12-06,Getafe CF,Valencia CF
+25daf1f5c2d33e32feb7,es.1,2026-27,2026-12-06,Deportivo Alavés,RCD Espanyol de Barcelona
+47ce8074868b1dc37062,es.1,2026-27,2026-12-06,Sevilla FC,Málaga CF
+5109a34d150688a094c0,es.1,2026-27,2026-12-06,Real Racing Club de Santander,RC Deportivo La Coruña
+7be994ac7fd1504353c1,es.1,2026-27,2026-12-06,FC Barcelona,RC Celta de Vigo
+7dff16d4a63dbd09f8e7,es.1,2026-27,2026-12-06,Athletic Club,Real Madrid CF
+ce9c6b6a00fa56e4d831,es.1,2026-27,2026-12-06,Villarreal CF,Real Sociedad de Fútbol
+e902b949ab6fbf9f4a69,es.1,2026-27,2026-12-06,Rayo Vallecano de Madrid,Levante UD
+0a383c9ac2fcb5c7e70c,fr.1,2026-27,2026-12-06,Stade Rennais FC 1901,Stade Brestois 29
+0c88dabd734d33c7e6f2,fr.1,2026-27,2026-12-06,Olympique de Marseille,OGC Nice
+d8d09a02b8cde3e23c46,fr.1,2026-27,2026-12-06,ES Troyes AC,Olympique Lyonnais
+072e2e1d5a8592fd8503,it.1,2026-27,2026-12-06,Juventus FC,Udinese Calcio
+7ebbb095ad9671ef3782,it.1,2026-27,2026-12-06,AC Milan,Parma Calcio 1913
+ae81a59d8c37b147bca4,it.1,2026-27,2026-12-06,Genoa CFC,Torino FC
+f97e64c0b05479d4f040,it.1,2026-27,2026-12-06,SS Lazio,Atalanta BC
+60386f62bfc887334f8e,it.1,2026-27,2026-12-07,Venezia FC,US Sassuolo Calcio
+967d629b2e8e0b9b45dc,it.1,2026-27,2026-12-07,ACF Fiorentina,Cagliari Calcio
+cdecf2fc93844a859bdc,es.1,2026-27,2026-12-09,Rayo Vallecano de Madrid,Athletic Club
+b653c778a20d56e00b3e,fr.1,2026-27,2026-12-11,AJ Auxerre,Toulouse FC
+f679533ceed1dd8137de,it.1,2026-27,2026-12-11,Udinese Calcio,Frosinone Calcio
+0765c5a693c6bac7ccb2,de.1,2026-27,2026-12-12,SC Paderborn 07,SV 07 Elversberg
+4c886ffdf8f853d40708,de.1,2026-27,2026-12-12,Borussia Dortmund,FC Augsburg
+8a4a96d1423f448e22a1,de.1,2026-27,2026-12-12,VfB Stuttgart,1. FC Union Berlin
+a8496bfe8ec6bdb9dfff,de.1,2026-27,2026-12-12,TSG 1899 Hoffenheim,FC Bayern München
+c17e99b58578889bbd0a,de.1,2026-27,2026-12-12,Hamburger SV,FC Schalke 04
+c792d1b332681cda3636,de.1,2026-27,2026-12-12,Borussia Mönchengladbach,Eintracht Frankfurt
+cc08d6ba187eaecb6b1d,de.1,2026-27,2026-12-12,SV Werder Bremen,Bayer 04 Leverkusen
+dc026d8f1b8d0b6a539f,de.1,2026-27,2026-12-12,1. FC Köln,RB Leipzig
+e9941434c9defaf00262,de.1,2026-27,2026-12-12,1. FSV Mainz 05,SC Freiburg
+4150de36d945a1b7b818,en.1,2026-27,2026-12-12,Ipswich Town FC,Newcastle United FC
+6d713a8142b4a5d71717,en.1,2026-27,2026-12-12,Fulham FC,Brentford FC
+800211bbd49a30cd1715,en.1,2026-27,2026-12-12,Manchester City FC,Chelsea FC
+c59335eeacbaa3f3072e,en.1,2026-27,2026-12-12,Liverpool FC,Leeds United FC
+30d4bb1a5878ae13e8a1,fr.1,2026-27,2026-12-12,Stade Brestois 29,ES Troyes AC
+617db52a4e5e32a6213d,fr.1,2026-27,2026-12-12,Le Havre AC,Le Mans FC
+921980f4b194a2780111,fr.1,2026-27,2026-12-12,Angers SCO,RC Strasbourg Alsace
+97b1641ed4cfbbfc33ac,fr.1,2026-27,2026-12-12,OGC Nice,Racing Club de Lens
+be0415557301611a4a93,fr.1,2026-27,2026-12-12,Paris Saint-Germain FC,Paris FC
+346610b0171ffe291d4a,it.1,2026-27,2026-12-12,US Lecce,US Sassuolo Calcio
+ba06ea7e924117e96e50,it.1,2026-27,2026-12-12,Cagliari Calcio,Venezia FC
+cd9b97ed3c6b1bf0468a,it.1,2026-27,2026-12-12,Como 1907,Bologna FC 1909
+202ea7c689f62b7124a6,en.1,2026-27,2026-12-13,Coventry City FC,Aston Villa FC
+57ecb504a6ec3b337097,en.1,2026-27,2026-12-13,Sunderland AFC,Nottingham Forest FC
+ef50d6eb7604ae5044b1,en.1,2026-27,2026-12-13,Brighton & Hove Albion FC,Everton FC
+f5877c78f12fa26ff731,en.1,2026-27,2026-12-13,Crystal Palace FC,Manchester United FC
+ff71d04810e2856fb60b,en.1,2026-27,2026-12-13,Arsenal FC,AFC Bournemouth
+0ea08d0c2549fdc0f408,es.1,2026-27,2026-12-13,RCD Espanyol de Barcelona,RC Celta de Vigo
+19222b383316f43acc8a,es.1,2026-27,2026-12-13,Levante UD,Deportivo Alavés
+1badb18de2fc54cc8872,es.1,2026-27,2026-12-13,Villarreal CF,Rayo Vallecano de Madrid
+55469bd40094e139d78d,es.1,2026-27,2026-12-13,Málaga CF,FC Barcelona
+6e62f56adc2eb2a8d60a,es.1,2026-27,2026-12-13,Real Sociedad de Fútbol,Getafe CF
+9251f5c42a22fe61d2f3,es.1,2026-27,2026-12-13,Club Atlético de Madrid,Valencia CF
+aad79877fd237f2557f2,es.1,2026-27,2026-12-13,Real Madrid CF,CA Osasuna
+c8af01a92ac6eb558bda,es.1,2026-27,2026-12-13,Real Betis Balompié,Real Racing Club de Santander
+c95508b1e44d8df13632,es.1,2026-27,2026-12-13,RC Deportivo La Coruña,Athletic Club
+d4df67cbb4e6a4c67eb8,es.1,2026-27,2026-12-13,Elche CF,Sevilla FC
+18ad25689c86b916ec75,fr.1,2026-27,2026-12-13,Stade Rennais FC 1901,AS Monaco FC
+4176d33bbbc75ab6f859,fr.1,2026-27,2026-12-13,Olympique Lyonnais,Olympique de Marseille
+f5a35fa98005f0e53372,fr.1,2026-27,2026-12-13,FC Lorient,Lille OSC
+07bfcf151c055dc3dc77,it.1,2026-27,2026-12-13,Parma Calcio 1913,ACF Fiorentina
+828e7df330a752e300a8,it.1,2026-27,2026-12-13,SS Lazio,AS Roma
+8c9522ee0e436632d0d9,it.1,2026-27,2026-12-13,SSC Napoli,AC Milan
+e7875b9aabcc40a82340,it.1,2026-27,2026-12-13,FC Internazionale Milano,Torino FC
+81b65b85df306860f5d0,en.1,2026-27,2026-12-14,Hull City AFC,Tottenham Hotspur FC
+137510b5f33348446d2d,it.1,2026-27,2026-12-14,Juventus FC,AC Monza
+8f2bf6048127dd220e71,it.1,2026-27,2026-12-14,Atalanta BC,Genoa CFC
+d193039fbdccaf294ee1,it.1,2026-27,2026-12-18,Frosinone Calcio,SS Lazio
+e0a305f60274b4486f8b,it.1,2026-27,2026-12-18,US Lecce,FC Internazionale Milano
+0c87d1bd86b9ad28a551,de.1,2026-27,2026-12-19,FC Schalke 04,Borussia Mönchengladbach
+5963d47712781ed67576,de.1,2026-27,2026-12-19,1. FSV Mainz 05,1. FC Köln
+676b6c2cc4e006c47156,de.1,2026-27,2026-12-19,Bayer 04 Leverkusen,Eintracht Frankfurt
+6cbe8a71f73b9fcd2dae,de.1,2026-27,2026-12-19,RB Leipzig,Borussia Dortmund
+90e8d804e5e7e8b72a50,de.1,2026-27,2026-12-19,FC Bayern München,SV Werder Bremen
+a98f16de737c29bd4d26,de.1,2026-27,2026-12-19,SV 07 Elversberg,Hamburger SV
+c07403c34e0e29cdc020,de.1,2026-27,2026-12-19,1. FC Union Berlin,TSG 1899 Hoffenheim
+d5c22461ba6d3c6fb74e,de.1,2026-27,2026-12-19,SC Freiburg,VfB Stuttgart
+d7f915d5bdc799bd500c,de.1,2026-27,2026-12-19,FC Augsburg,SC Paderborn 07
+0111bba50ccad61e775c,en.1,2026-27,2026-12-19,Leeds United FC,Fulham FC
+08114db2189b55e08f4e,en.1,2026-27,2026-12-19,AFC Bournemouth,Coventry City FC
+4648f364de88fd2e78cd,en.1,2026-27,2026-12-19,Manchester City FC,Hull City AFC
+7cc4a9f3d7b04949b16b,en.1,2026-27,2026-12-19,Liverpool FC,Tottenham Hotspur FC
+ce05524b5b3b44ba6bfa,en.1,2026-27,2026-12-19,Nottingham Forest FC,Everton FC
+dda6ee2ae724269bcc35,en.1,2026-27,2026-12-19,Brentford FC,Newcastle United FC
+02a68fd5b62666fccf60,it.1,2026-27,2026-12-19,US Sassuolo Calcio,Parma Calcio 1913
+7a2d3eac31fe9de3397f,it.1,2026-27,2026-12-19,AC Milan,Como 1907
+c70ab6bc73b65d481a65,it.1,2026-27,2026-12-19,AS Roma,Juventus FC
+4c7d21fa329097c23c01,en.1,2026-27,2026-12-20,Brighton & Hove Albion FC,Ipswich Town FC
+5bc67e1cb797712adae0,en.1,2026-27,2026-12-20,Sunderland AFC,Crystal Palace FC
+d4a6769a8ed5c24804b3,en.1,2026-27,2026-12-20,Arsenal FC,Manchester United FC
+08185295a748865d7d01,es.1,2026-27,2026-12-20,RC Celta de Vigo,Club Atlético de Madrid
+497ddbf5ddc21948ee75,es.1,2026-27,2026-12-20,CA Osasuna,Villarreal CF
+73acaa03247c55d69822,es.1,2026-27,2026-12-20,Rayo Vallecano de Madrid,Málaga CF
+7536c454afab70a37001,es.1,2026-27,2026-12-20,Getafe CF,Levante UD
+7bf8ae274c25c2628cfd,es.1,2026-27,2026-12-20,Sevilla FC,Real Racing Club de Santander
+9d3c1a6f29b4f770e9a8,es.1,2026-27,2026-12-20,Athletic Club,Real Betis Balompié
+a5324b9e9d6bd10d661d,es.1,2026-27,2026-12-20,FC Barcelona,Real Sociedad de Fútbol
+a7bcef14b79ca051321c,es.1,2026-27,2026-12-20,Deportivo Alavés,Elche CF
+aae652349f2dfc4a2c67,es.1,2026-27,2026-12-20,RC Deportivo La Coruña,Real Madrid CF
+e03af5550a256238cc46,es.1,2026-27,2026-12-20,Valencia CF,RCD Espanyol de Barcelona
+18ec4893512e7ab42369,it.1,2026-27,2026-12-20,Venezia FC,AC Monza
+6f17f6ae9d51d64f749e,it.1,2026-27,2026-12-20,Torino FC,Cagliari Calcio
+73a29815cdbb4114eb90,it.1,2026-27,2026-12-20,Atalanta BC,SSC Napoli
+8d5a08036cd7a859176e,it.1,2026-27,2026-12-20,ACF Fiorentina,Bologna FC 1909
+c4dea5b5529bc38988c1,it.1,2026-27,2026-12-20,Genoa CFC,Udinese Calcio
+038d8cee8b19ba375051,en.1,2026-27,2026-12-21,Chelsea FC,Aston Villa FC
+3d55c4f9d56c8e31b20f,en.1,2026-27,2026-12-26,Ipswich Town FC,Brentford FC
+580db5e0affdfc213029,en.1,2026-27,2026-12-26,Everton FC,Sunderland AFC
+5cf8bbb6b72cca789e50,en.1,2026-27,2026-12-26,Newcastle United FC,Manchester City FC
+6fba4afdd152d4dc0b16,en.1,2026-27,2026-12-26,Hull City AFC,Liverpool FC
+a55f0e9bc1576e25061f,en.1,2026-27,2026-12-26,Fulham FC,Brighton & Hove Albion FC
+de61ee8b5f9e468ea66b,en.1,2026-27,2026-12-26,Tottenham Hotspur FC,AFC Bournemouth
+ee8be6379f0add3bd5f5,en.1,2026-27,2026-12-26,Aston Villa FC,Leeds United FC
+0e57dbc568b6c6f7a482,en.1,2026-27,2026-12-27,Crystal Palace FC,Arsenal FC
+246beb4b5bbb82a945d6,en.1,2026-27,2026-12-27,Manchester United FC,Nottingham Forest FC
+46f77fe63a983cb11bb3,en.1,2026-27,2026-12-27,Coventry City FC,Chelsea FC
+a335d7cca2e23ff14225,en.1,2026-27,2026-12-29,Tottenham Hotspur FC,Brighton & Hove Albion FC
+b194a66c8492887ebfac,en.1,2026-27,2026-12-29,Everton FC,Manchester City FC
+c5a319d1760e94eaef01,en.1,2026-27,2026-12-29,Hull City AFC,Leeds United FC
+3cfe45ddbbe382801da4,en.1,2026-27,2026-12-30,Coventry City FC,Brentford FC
+66e6dd25711a7e2fabc8,en.1,2026-27,2026-12-30,Ipswich Town FC,Chelsea FC
+77dc485be3a99a7e7406,en.1,2026-27,2026-12-30,Newcastle United FC,Nottingham Forest FC
+82e5088de1beaf21b951,en.1,2026-27,2026-12-30,Fulham FC,Arsenal FC
+b5b6ee4769ce45304439,en.1,2026-27,2026-12-30,Crystal Palace FC,AFC Bournemouth
+c015a10b48f00e434f2d,en.1,2026-27,2026-12-30,Manchester United FC,Sunderland AFC
+df506a0f9b88e1068983,en.1,2026-27,2026-12-30,Aston Villa FC,Liverpool FC
+efb361416e6e1dfdfa43,en.1,2026-27,2027-01-01,Leeds United FC,Everton FC
+2735ae6c61d7e6e6375b,en.1,2026-27,2027-01-02,Brentford FC,Crystal Palace FC
+375d577e06132dd00e58,en.1,2026-27,2027-01-02,Brighton & Hove Albion FC,Manchester United FC
+4455552e991775ae4b1d,en.1,2026-27,2027-01-02,Nottingham Forest FC,Fulham FC
+80f0412495b29cf2c909,en.1,2026-27,2027-01-02,AFC Bournemouth,Aston Villa FC
+9994799e7f412887abe5,en.1,2026-27,2027-01-02,Liverpool FC,Coventry City FC
+bcba7dcee7243c66b2ff,en.1,2026-27,2027-01-02,Arsenal FC,Ipswich Town FC
+bd00da89f116c0fa1ec3,en.1,2026-27,2027-01-02,Sunderland AFC,Hull City AFC
+16bd4e4c288cb090117a,fr.1,2026-27,2027-01-02,Toulouse FC,Angers SCO
+54c58c57e86e45d45a7d,fr.1,2026-27,2027-01-02,Paris FC,Le Havre AC
+5b629c6a89f8e738d97a,fr.1,2026-27,2027-01-02,Stade Brestois 29,Olympique de Marseille
+b018aceac53c84add7a6,fr.1,2026-27,2027-01-02,ES Troyes AC,Stade Rennais FC 1901
+cfc18ab0cb56755573b1,fr.1,2026-27,2027-01-02,FC Lorient,AJ Auxerre
+fa735190eb2e9434ec33,fr.1,2026-27,2027-01-02,AS Monaco FC,OGC Nice
+0ef3ca1de501f9e9b7bd,it.1,2026-27,2027-01-02,Cagliari Calcio,Genoa CFC
+282a04801486fd3a9e22,it.1,2026-27,2027-01-02,ACF Fiorentina,SS Lazio
+550513de0b976af1bf36,it.1,2026-27,2027-01-02,AC Monza,AC Milan
+b51592b81fb17135d165,it.1,2026-27,2027-01-02,Torino FC,Venezia FC
+d1af6f81023c70c61497,it.1,2026-27,2027-01-02,AS Roma,Frosinone Calcio
+65ca776697feba476717,en.1,2026-27,2027-01-03,Manchester City FC,Tottenham Hotspur FC
+8f1f973a13e918a04306,en.1,2026-27,2027-01-03,Chelsea FC,Newcastle United FC
+18b61140c914ecb187c3,es.1,2026-27,2027-01-03,Villarreal CF,Sevilla FC
+385af59ff2059d0d7f53,es.1,2026-27,2027-01-03,Levante UD,Valencia CF
+39b6325b7ebb2f70fdc6,es.1,2026-27,2027-01-03,Real Madrid CF,Getafe CF
+923078a40ffc94caa761,es.1,2026-27,2027-01-03,RC Celta de Vigo,RC Deportivo La Coruña
+9e5e2226d4c70db158e4,es.1,2026-27,2027-01-03,Real Racing Club de Santander,Athletic Club
+a2c7b1db660ff418767d,es.1,2026-27,2027-01-03,Real Sociedad de Fútbol,CA Osasuna
+b977020927819c943c55,es.1,2026-27,2027-01-03,Real Betis Balompié,Deportivo Alavés
+c3328f376797f46d9a4c,es.1,2026-27,2027-01-03,RCD Espanyol de Barcelona,FC Barcelona
+c74dc30dbf99528a3600,es.1,2026-27,2027-01-03,Rayo Vallecano de Madrid,Club Atlético de Madrid
+c988404fe19d3d7cb7af,es.1,2026-27,2027-01-03,Málaga CF,Elche CF
+4a4d559783ca67189996,fr.1,2026-27,2027-01-03,Racing Club de Lens,Paris Saint-Germain FC
+972796e5d46769807f16,fr.1,2026-27,2027-01-03,Lille OSC,RC Strasbourg Alsace
+ac16ef516e99f328d49b,fr.1,2026-27,2027-01-03,Le Mans FC,Olympique Lyonnais
+1007d208764f90c61613,it.1,2026-27,2027-01-03,FC Internazionale Milano,US Sassuolo Calcio
+53e96d164d7bc1b5d52b,it.1,2026-27,2027-01-03,Udinese Calcio,Atalanta BC
+b1d815d20daec279ed45,it.1,2026-27,2027-01-03,Como 1907,US Lecce
+e121fb2df8476b331564,it.1,2026-27,2027-01-03,Parma Calcio 1913,SSC Napoli
+fa9c3e547696b6da1e75,it.1,2026-27,2027-01-03,Bologna FC 1909,Juventus FC
+121351ebb075f86d40fe,en.1,2026-27,2027-01-05,Nottingham Forest FC,Hull City AFC
+4544bdf8b6be20055163,en.1,2026-27,2027-01-05,Sunderland AFC,Liverpool FC
+d082d9696ed0d177537b,en.1,2026-27,2027-01-05,Brighton & Hove Albion FC,AFC Bournemouth
+f018c08e95ab0f7ccb9c,en.1,2026-27,2027-01-05,Everton FC,Aston Villa FC
+f5ae39a24dd563a4eb3e,en.1,2026-27,2027-01-05,Arsenal FC,Brentford FC
+2d9d7d17ee46fb11e585,it.1,2026-27,2027-01-05,AC Milan,ACF Fiorentina
+8fae26fdd63ecd8de54b,it.1,2026-27,2027-01-05,Genoa CFC,AC Monza
+ae360de3cbd1d0294f2c,it.1,2026-27,2027-01-05,Venezia FC,AS Roma
+419fb3ea60fac398ab68,en.1,2026-27,2027-01-06,Ipswich Town FC,Coventry City FC
+5467274086a6bec03718,en.1,2026-27,2027-01-06,Fulham FC,Tottenham Hotspur FC
+59417cacdc9a049d0947,en.1,2026-27,2027-01-06,Crystal Palace FC,Chelsea FC
+77aeb81917ade1f94128,en.1,2026-27,2027-01-06,Leeds United FC,Manchester City FC
+0a72571155030f8027ca,it.1,2026-27,2027-01-06,Juventus FC,Torino FC
+8e65cfcfb489153a3d28,it.1,2026-27,2027-01-06,Frosinone Calcio,Bologna FC 1909
+b12cc37a998eed08d3db,it.1,2026-27,2027-01-06,SS Lazio,FC Internazionale Milano
+bdc59f9f1951695b4d22,it.1,2026-27,2027-01-06,Atalanta BC,Como 1907
+d14ba6d68cf951178f74,it.1,2026-27,2027-01-06,US Lecce,Parma Calcio 1913
+3a0286cb0ace8ffcd6c6,en.1,2026-27,2027-01-07,Manchester United FC,Newcastle United FC
+6c5353d8ada362a4e4c0,it.1,2026-27,2027-01-07,SSC Napoli,Cagliari Calcio
+d9b324b173b1ee5c8c5e,it.1,2026-27,2027-01-07,US Sassuolo Calcio,Udinese Calcio
+068d1daafa00317b722a,de.1,2026-27,2027-01-09,Borussia Dortmund,1. FSV Mainz 05
+0d8d99edcbd61d02688a,de.1,2026-27,2027-01-09,Hamburger SV,Bayer 04 Leverkusen
+3c64f6bc29ee98ac3189,de.1,2026-27,2027-01-09,VfB Stuttgart,FC Augsburg
+563d3a888de46065bd7e,de.1,2026-27,2027-01-09,SV Werder Bremen,1. FC Union Berlin
+6e42e95b1a0b77087e29,de.1,2026-27,2027-01-09,Eintracht Frankfurt,FC Schalke 04
+81ebae164d8b34f44b02,de.1,2026-27,2027-01-09,TSG 1899 Hoffenheim,SV 07 Elversberg
+bb1715475cca0467a3f5,de.1,2026-27,2027-01-09,SC Paderborn 07,RB Leipzig
+d880282b6b8e049abf9d,de.1,2026-27,2027-01-09,1. FC Köln,SC Freiburg
+e91d064ea21a5832a45a,de.1,2026-27,2027-01-09,Borussia Mönchengladbach,FC Bayern München
+670144f2f471b14cb434,it.1,2026-27,2027-01-09,Bologna FC 1909,Genoa CFC
+6c425961314285af0873,it.1,2026-27,2027-01-09,AC Monza,Frosinone Calcio
+d0b275270e6e5f0e8ef5,it.1,2026-27,2027-01-09,AS Roma,AC Milan
+1155c2ccd961c4fac329,es.1,2026-27,2027-01-10,RCD Espanyol de Barcelona,Real Betis Balompié
+12186c4bf6b77582ee69,es.1,2026-27,2027-01-10,Real Madrid CF,Levante UD
+15c3c4294b738c2d9b93,es.1,2026-27,2027-01-10,Elche CF,Getafe CF
+35b0a34b1b27e293deda,es.1,2026-27,2027-01-10,Deportivo Alavés,Real Sociedad de Fútbol
+4a40a58869f94ef13a12,es.1,2026-27,2027-01-10,CA Osasuna,FC Barcelona
+6a2ce925d5ba951814d0,es.1,2026-27,2027-01-10,Athletic Club,Villarreal CF
+84f7cbf48eeb6f14d04b,es.1,2026-27,2027-01-10,RC Deportivo La Coruña,Rayo Vallecano de Madrid
+abf942f2887fc79fa7e5,es.1,2026-27,2027-01-10,Club Atlético de Madrid,Real Racing Club de Santander
+c9173dc567df1a4c62e7,es.1,2026-27,2027-01-10,Sevilla FC,RC Celta de Vigo
+db137374cca79dbc3abc,es.1,2026-27,2027-01-10,Valencia CF,Málaga CF
+0f8f347bffe4859ea713,it.1,2026-27,2027-01-10,Como 1907,SS Lazio
+badca4b3d7966a741f97,it.1,2026-27,2027-01-10,Torino FC,Atalanta BC
+bec142260a9c31cc4113,it.1,2026-27,2027-01-10,FC Internazionale Milano,Juventus FC
+c5142e52fb83dbb45797,it.1,2026-27,2027-01-10,Parma Calcio 1913,Venezia FC
+f4b67b149edb2a7c344d,it.1,2026-27,2027-01-10,ACF Fiorentina,US Lecce
+a22b3288d7861f502e89,it.1,2026-27,2027-01-11,Udinese Calcio,SSC Napoli
+c0c07384b3dcbc0fa5e9,it.1,2026-27,2027-01-11,Cagliari Calcio,US Sassuolo Calcio
+25af59a1aadaa2623e19,de.1,2026-27,2027-01-12,SC Freiburg,Hamburger SV
+28c39a01530c3a98ecab,de.1,2026-27,2027-01-12,1. FC Union Berlin,SC Paderborn 07
+38029a83f71ae317b507,de.1,2026-27,2027-01-12,RB Leipzig,VfB Stuttgart
+4fe6ddec331dbba855d9,de.1,2026-27,2027-01-12,FC Bayern München,Bayer 04 Leverkusen
+6b8b91b8fb4c9c9d5d27,de.1,2026-27,2027-01-12,FC Schalke 04,SV Werder Bremen
+b4c2112d2758bdc8b595,de.1,2026-27,2027-01-12,1. FSV Mainz 05,TSG 1899 Hoffenheim
+b843c5323bb83625989c,de.1,2026-27,2027-01-12,1. FC Köln,Borussia Dortmund
+be15a671cedde719c959,de.1,2026-27,2027-01-12,FC Augsburg,Borussia Mönchengladbach
+efd49b8013baa4edb15f,de.1,2026-27,2027-01-12,SV 07 Elversberg,Eintracht Frankfurt
+6f728161ec67a62ee77a,fr.1,2026-27,2027-01-15,Olympique de Marseille,Lille OSC
+1c2465f0820f5e49a1f4,de.1,2026-27,2027-01-16,SC Paderborn 07,1. FC Köln
+257e405252311c0d84c0,de.1,2026-27,2027-01-16,SV Werder Bremen,SV 07 Elversberg
+3c238785c6e83dd56a44,de.1,2026-27,2027-01-16,VfB Stuttgart,1. FSV Mainz 05
+8888ed8ebd0729e8de73,de.1,2026-27,2027-01-16,Eintracht Frankfurt,FC Bayern München
+8cd7829eb69f7bde6cd2,de.1,2026-27,2027-01-16,TSG 1899 Hoffenheim,RB Leipzig
+ba4c83d231c8cd0e79da,de.1,2026-27,2027-01-16,Borussia Mönchengladbach,1. FC Union Berlin
+e9a6b7f64f70189c6e41,de.1,2026-27,2027-01-16,Bayer 04 Leverkusen,FC Schalke 04
+eaf9ab1faab58cd65aac,de.1,2026-27,2027-01-16,Hamburger SV,FC Augsburg
+f03403d6f9c962679a29,de.1,2026-27,2027-01-16,Borussia Dortmund,SC Freiburg
+0adbef46ebcd9d0540c6,en.1,2026-27,2027-01-16,Tottenham Hotspur FC,Leeds United FC
+3a9f7232417f1f939b0b,en.1,2026-27,2027-01-16,Aston Villa FC,Manchester United FC
+3e0d97afbd7f4b88ba13,en.1,2026-27,2027-01-16,Chelsea FC,Sunderland AFC
+52c648c9e5f7f4fa376a,en.1,2026-27,2027-01-16,Brentford FC,Brighton & Hove Albion FC
+55d0d2bd145161e0422d,en.1,2026-27,2027-01-16,AFC Bournemouth,Ipswich Town FC
+58d67ad8c270e104f316,en.1,2026-27,2027-01-16,Liverpool FC,Crystal Palace FC
+930c54c123f4e6544ed9,en.1,2026-27,2027-01-16,Hull City AFC,Arsenal FC
+bdcd80cc529d08e077d8,en.1,2026-27,2027-01-16,Newcastle United FC,Fulham FC
+db28ea822406fb0f8066,en.1,2026-27,2027-01-16,Manchester City FC,Nottingham Forest FC
+e390e4d6eeb546a1f4a7,en.1,2026-27,2027-01-16,Coventry City FC,Everton FC
+1bfd2ac13ddc86fbcf5f,fr.1,2026-27,2027-01-16,AJ Auxerre,ES Troyes AC
+40e86bf023bca2d45ef2,fr.1,2026-27,2027-01-16,Stade Rennais FC 1901,Racing Club de Lens
+80554cedc802f68a9fc2,fr.1,2026-27,2027-01-16,RC Strasbourg Alsace,Le Mans FC
+ccb931040cb54264846a,fr.1,2026-27,2027-01-16,Angers SCO,Paris Saint-Germain FC
+df0583a0019f520e7dc1,fr.1,2026-27,2027-01-16,OGC Nice,Le Havre AC
+1f6020023cd6eda64c52,it.1,2026-27,2027-01-16,Cagliari Calcio,Como 1907
+2fc1275ece7552b0224c,it.1,2026-27,2027-01-16,US Lecce,Udinese Calcio
+405a481100b598d8b06e,it.1,2026-27,2027-01-16,AC Milan,Torino FC
+829220e3dbffc040700a,it.1,2026-27,2027-01-16,Venezia FC,Frosinone Calcio
+83c9d0f7aa00a95c5d52,it.1,2026-27,2027-01-16,SS Lazio,Bologna FC 1909
+bbb962d6de64676702b5,it.1,2026-27,2027-01-16,Atalanta BC,AS Roma
+bd9bfbfdb324f8b6218a,it.1,2026-27,2027-01-16,US Sassuolo Calcio,AC Monza
+caf0304949e53d2caa96,it.1,2026-27,2027-01-16,Parma Calcio 1913,FC Internazionale Milano
+ed6e0447fdba0fd92921,it.1,2026-27,2027-01-16,SSC Napoli,ACF Fiorentina
+f16dfcc9269e8774db5a,it.1,2026-27,2027-01-16,Juventus FC,Genoa CFC
+06d3746eff99a5b0a4e0,es.1,2026-27,2027-01-17,Club Atlético de Madrid,Real Sociedad de Fútbol
+6dbd7a09fbebd2549ef9,es.1,2026-27,2027-01-17,Real Betis Balompié,RC Deportivo La Coruña
+70d5532921e128113d9c,es.1,2026-27,2027-01-17,Rayo Vallecano de Madrid,Sevilla FC
+72ada4c31726a5ce12e9,es.1,2026-27,2027-01-17,Villarreal CF,Deportivo Alavés
+7aa78fd58176f3c6ee77,es.1,2026-27,2027-01-17,Levante UD,RCD Espanyol de Barcelona
+7be587ca53b696bb7943,es.1,2026-27,2027-01-17,Málaga CF,Real Madrid CF
+8b04fdd6a6b3c01e383e,es.1,2026-27,2027-01-17,RC Celta de Vigo,Valencia CF
+a17b21a4e70adf3b0769,es.1,2026-27,2027-01-17,FC Barcelona,Elche CF
+efc9c8216be31b451701,es.1,2026-27,2027-01-17,Getafe CF,Athletic Club
+f147718199af85617ffb,es.1,2026-27,2027-01-17,Real Racing Club de Santander,CA Osasuna
+31f477796c7932ab9162,fr.1,2026-27,2027-01-17,Olympique Lyonnais,FC Lorient
+411dfee49d1f0998be9f,fr.1,2026-27,2027-01-17,Paris FC,Toulouse FC
+e4400b61edd2b45ce8ae,fr.1,2026-27,2027-01-17,AS Monaco FC,Stade Brestois 29
+377dd917bb95b3973f57,fr.1,2026-27,2027-01-22,ES Troyes AC,AS Monaco FC
+09c8ac5d01f55cb0d1ca,de.1,2026-27,2027-01-23,Bayer 04 Leverkusen,SV 07 Elversberg
+10abf91c73d458c5c6a4,de.1,2026-27,2027-01-23,Hamburger SV,Borussia Dortmund
+28f50bd7c739642b695f,de.1,2026-27,2027-01-23,FC Schalke 04,FC Augsburg
+3dc635caa91f29f38716,de.1,2026-27,2027-01-23,TSG 1899 Hoffenheim,1. FC Köln
+4ee15a04ee095265ec57,de.1,2026-27,2027-01-23,VfB Stuttgart,FC Bayern München
+5d991d5bd242f880336b,de.1,2026-27,2027-01-23,Borussia Mönchengladbach,RB Leipzig
+d25b5757c38416d1a4e5,de.1,2026-27,2027-01-23,Eintracht Frankfurt,1. FC Union Berlin
+dbd1203a631713e14962,de.1,2026-27,2027-01-23,SV Werder Bremen,SC Freiburg
+e1d8abcb397cf4836482,de.1,2026-27,2027-01-23,SC Paderborn 07,1. FSV Mainz 05
+26a7b82e2bd6758f34f1,en.1,2026-27,2027-01-23,Crystal Palace FC,Tottenham Hotspur FC
+4ecb909c1ce9e53ec52b,en.1,2026-27,2027-01-23,Ipswich Town FC,Hull City AFC
+722706c5243786dc95a3,en.1,2026-27,2027-01-23,Arsenal FC,Newcastle United FC
+8b2f5c5df2f01dd19320,en.1,2026-27,2027-01-23,Leeds United FC,Chelsea FC
+8f34a73646b9d5c80eb0,en.1,2026-27,2027-01-23,Manchester United FC,Liverpool FC
+991da968dc0c76441e9e,en.1,2026-27,2027-01-23,Brighton & Hove Albion FC,Manchester City FC
+cc68b49a8ad8e05ea24c,en.1,2026-27,2027-01-23,Sunderland AFC,Coventry City FC
+d55ea12820509ead9751,en.1,2026-27,2027-01-23,Fulham FC,Aston Villa FC
+dd7e309c512af9c0e57f,en.1,2026-27,2027-01-23,Nottingham Forest FC,AFC Bournemouth
+fb96add2c0532041cf8a,en.1,2026-27,2027-01-23,Everton FC,Brentford FC
+25b61645d6809fe9acaa,fr.1,2026-27,2027-01-23,Toulouse FC,OGC Nice
+8d4d37288005ee4bd78c,fr.1,2026-27,2027-01-23,Lille OSC,Paris FC
+c24ea7ee8a3588822dbf,fr.1,2026-27,2027-01-23,Le Mans FC,Angers SCO
+e916796aac1bd2593b4c,fr.1,2026-27,2027-01-23,Paris Saint-Germain FC,AJ Auxerre
+fb65351a76022c684a5b,fr.1,2026-27,2027-01-23,Racing Club de Lens,Stade Brestois 29
+0349a8bd1102843143de,it.1,2026-27,2027-01-23,Genoa CFC,Parma Calcio 1913
+22130a646977fa997fda,it.1,2026-27,2027-01-23,US Lecce,Torino FC
+488bd8a1a4f3fed3c08e,it.1,2026-27,2027-01-23,FC Internazionale Milano,Venezia FC
+72993b243c6ca47923ad,it.1,2026-27,2027-01-23,Juventus FC,Cagliari Calcio
+790235b91ee991c46762,it.1,2026-27,2027-01-23,Bologna FC 1909,Atalanta BC
+8319b0a9922c2c0be13f,it.1,2026-27,2027-01-23,Frosinone Calcio,AC Milan
+84860f64075f18711b73,it.1,2026-27,2027-01-23,ACF Fiorentina,US Sassuolo Calcio
+9298d9ff7436a796b6ce,it.1,2026-27,2027-01-23,AC Monza,SS Lazio
+f0c6519cd23cd80ed655,it.1,2026-27,2027-01-23,Como 1907,SSC Napoli
+f5244d2631b548a2df89,it.1,2026-27,2027-01-23,AS Roma,Udinese Calcio
+035ea1e2e7a5a2c7044f,es.1,2026-27,2027-01-24,Real Madrid CF,Real Betis Balompié
+140a48d4f45f6bdb2812,es.1,2026-27,2027-01-24,Real Racing Club de Santander,RC Celta de Vigo
+42b99bbcd0f7ee5f6321,es.1,2026-27,2027-01-24,RC Deportivo La Coruña,Club Atlético de Madrid
+52f74123d38cb4fb5174,es.1,2026-27,2027-01-24,Athletic Club,Levante UD
+602992fa942d0031dbc5,es.1,2026-27,2027-01-24,Real Sociedad de Fútbol,Málaga CF
+a497bec2e833c9753400,es.1,2026-27,2027-01-24,Elche CF,Rayo Vallecano de Madrid
+cfe631e3151e67f857df,es.1,2026-27,2027-01-24,Valencia CF,Sevilla FC
+d6883c13e1e34f7ead37,es.1,2026-27,2027-01-24,RCD Espanyol de Barcelona,Villarreal CF
+ea56508e378093117774,es.1,2026-27,2027-01-24,Getafe CF,CA Osasuna
+ee046637c520df91be4c,es.1,2026-27,2027-01-24,Deportivo Alavés,FC Barcelona
+379477f157bf984db661,fr.1,2026-27,2027-01-24,Le Havre AC,Stade Rennais FC 1901
+a309366c70d0d01fd468,fr.1,2026-27,2027-01-24,RC Strasbourg Alsace,Olympique Lyonnais
+a81c06b25463a39c8798,fr.1,2026-27,2027-01-24,FC Lorient,Olympique de Marseille
+8a30d1f64c1aa5ca3e05,fr.1,2026-27,2027-01-29,Stade Brestois 29,RC Strasbourg Alsace
+02945866aa970d2ca11d,de.1,2026-27,2027-01-30,FC Bayern München,FC Schalke 04
+14651cef3375afca250e,de.1,2026-27,2027-01-30,1. FC Köln,VfB Stuttgart
+42a7e6bd9a055a6e7be2,de.1,2026-27,2027-01-30,SV 07 Elversberg,Borussia Mönchengladbach
+4f6b4427a6c39d0cb32d,de.1,2026-27,2027-01-30,FC Augsburg,Eintracht Frankfurt
+9a7c8f96752d19465672,de.1,2026-27,2027-01-30,SC Freiburg,SC Paderborn 07
+add8d6fc5a15b3c87278,de.1,2026-27,2027-01-30,1. FC Union Berlin,Bayer 04 Leverkusen
+b0aa629f326e25d5435e,de.1,2026-27,2027-01-30,1. FSV Mainz 05,Hamburger SV
+da24cef3f506ea057a2d,de.1,2026-27,2027-01-30,RB Leipzig,SV Werder Bremen
+df3c3058813764a44e97,de.1,2026-27,2027-01-30,Borussia Dortmund,TSG 1899 Hoffenheim
+15d59ebcb809bd6aeb22,en.1,2026-27,2027-01-30,Aston Villa FC,Ipswich Town FC
+168e9e49932d89bc93ee,en.1,2026-27,2027-01-30,Tottenham Hotspur FC,Sunderland AFC
+20e414dd9412de4fbd60,en.1,2026-27,2027-01-30,Chelsea FC,Nottingham Forest FC
+813c67b9d1dd3c65501d,en.1,2026-27,2027-01-30,Hull City AFC,Crystal Palace FC
+b67b59353a07b4613cbc,en.1,2026-27,2027-01-30,Manchester City FC,Arsenal FC
+bd18f8ba371f64c49516,en.1,2026-27,2027-01-30,Liverpool FC,Everton FC
+ce9fd963cb3454eef126,en.1,2026-27,2027-01-30,Coventry City FC,Leeds United FC
+cf9bb2b5c6998ed82321,en.1,2026-27,2027-01-30,Brentford FC,Manchester United FC
+e316f069b8d681762d91,en.1,2026-27,2027-01-30,AFC Bournemouth,Fulham FC
+f4d5b66d8102b5a8f4f1,en.1,2026-27,2027-01-30,Newcastle United FC,Brighton & Hove Albion FC
+1f14bfa2c41cca29c405,fr.1,2026-27,2027-01-30,Paris FC,AJ Auxerre
+6d0890e24408ad683c41,fr.1,2026-27,2027-01-30,Angers SCO,Le Havre AC
+98a4d199a27e5ba60a87,fr.1,2026-27,2027-01-30,AS Monaco FC,Paris Saint-Germain FC
+a49a565eee76f29423dc,fr.1,2026-27,2027-01-30,Le Mans FC,OGC Nice
+f62c4129f0ca72ec8040,fr.1,2026-27,2027-01-30,Toulouse FC,Racing Club de Lens
+1304475a75e0a16defa2,it.1,2026-27,2027-01-30,US Sassuolo Calcio,Como 1907
+4389b2390c6aa65526bf,it.1,2026-27,2027-01-30,AC Monza,AS Roma
+67f50346e47e5c3b9437,it.1,2026-27,2027-01-30,Cagliari Calcio,Parma Calcio 1913
+682f2131a72fe747fad4,it.1,2026-27,2027-01-30,SS Lazio,Venezia FC
+94c2bfb379d6bff10ea3,it.1,2026-27,2027-01-30,AC Milan,Juventus FC
+a1a816709cc10d20a64e,it.1,2026-27,2027-01-30,Genoa CFC,US Lecce
+d1deff09af5ef675f75b,it.1,2026-27,2027-01-30,Udinese Calcio,Bologna FC 1909
+e0a28c7e593a198955b7,it.1,2026-27,2027-01-30,Atalanta BC,ACF Fiorentina
+e0c5fdc402421b0983fd,it.1,2026-27,2027-01-30,SSC Napoli,FC Internazionale Milano
+e7ec4755d9b3762b3f5c,it.1,2026-27,2027-01-30,Torino FC,Frosinone Calcio
+02d9a55ba85a245f704f,es.1,2026-27,2027-01-31,Villarreal CF,Real Racing Club de Santander
+585e1c1178710be50c47,es.1,2026-27,2027-01-31,FC Barcelona,Valencia CF
+6cbadc584469ab35a089,es.1,2026-27,2027-01-31,CA Osasuna,RC Deportivo La Coruña
+751733ecc85a22d673bc,es.1,2026-27,2027-01-31,Levante UD,Real Sociedad de Fútbol
+965e426c8ce0dae2f73c,es.1,2026-27,2027-01-31,Real Betis Balompié,Elche CF
+99b334db41af294364dd,es.1,2026-27,2027-01-31,Rayo Vallecano de Madrid,Real Madrid CF
+b5c2ef2a6fc98e6a1eff,es.1,2026-27,2027-01-31,RC Celta de Vigo,Getafe CF
+dbbc70263e75a32ad5dd,es.1,2026-27,2027-01-31,Sevilla FC,Athletic Club
+e44801ee5cc00a64cd21,es.1,2026-27,2027-01-31,Club Atlético de Madrid,RCD Espanyol de Barcelona
+f67113bef1e96e84047b,es.1,2026-27,2027-01-31,Málaga CF,Deportivo Alavés
+57aef576abcd8af42a00,fr.1,2026-27,2027-01-31,Olympique Lyonnais,Lille OSC
+57f4017ea66ee6cad1c2,fr.1,2026-27,2027-01-31,Stade Rennais FC 1901,FC Lorient
+73934a2e0b8516b9712b,fr.1,2026-27,2027-01-31,Olympique de Marseille,ES Troyes AC
+0d98eeac54b9c4aeb628,fr.1,2026-27,2027-02-05,RC Strasbourg Alsace,Paris FC
+16a9759ef0bcf5b1a7cf,fr.1,2026-27,2027-02-05,AJ Auxerre,AS Monaco FC
+184e50253084991684bd,fr.1,2026-27,2027-02-05,Racing Club de Lens,Angers SCO
+456208520b249eca7b9d,fr.1,2026-27,2027-02-05,Stade Rennais FC 1901,Olympique Lyonnais
+56fba0cc2422c340cebe,fr.1,2026-27,2027-02-05,ES Troyes AC,Lille OSC
+a5b4e7fd83e681409eb3,fr.1,2026-27,2027-02-05,Paris Saint-Germain FC,Olympique de Marseille
+dafdabec5a0dfff072c8,fr.1,2026-27,2027-02-05,OGC Nice,Stade Brestois 29
+dd290d39f9a6c0c64075,fr.1,2026-27,2027-02-05,FC Lorient,Le Mans FC
+fdde27154fc5e871983d,fr.1,2026-27,2027-02-05,Le Havre AC,Toulouse FC
+31eb5722601e17f1902a,de.1,2026-27,2027-02-06,Eintracht Frankfurt,1. FSV Mainz 05
+3688137ccce1e537f010,de.1,2026-27,2027-02-06,Bayer 04 Leverkusen,FC Augsburg
+57e9b533b9f2f323d0cb,de.1,2026-27,2027-02-06,FC Schalke 04,1. FC Union Berlin
+611406a077dabe076c8b,de.1,2026-27,2027-02-06,Borussia Mönchengladbach,SC Freiburg
+a0af00f69b583d70c5b4,de.1,2026-27,2027-02-06,SC Paderborn 07,Borussia Dortmund
+ad1c34a4520de048ab95,de.1,2026-27,2027-02-06,FC Bayern München,SV 07 Elversberg
+cba09e0bee7b7052eb00,de.1,2026-27,2027-02-06,Hamburger SV,RB Leipzig
+e8ed3a92533f92e12066,de.1,2026-27,2027-02-06,SV Werder Bremen,1. FC Köln
+ecdbfdb350695c2ef5d9,de.1,2026-27,2027-02-06,VfB Stuttgart,TSG 1899 Hoffenheim
+144fd297c794d6741c02,en.1,2026-27,2027-02-06,Leeds United FC,AFC Bournemouth
+1581be9845ed5d07a1c1,en.1,2026-27,2027-02-06,Crystal Palace FC,Coventry City FC
+2e269c23a9d3b24f7b07,en.1,2026-27,2027-02-06,Nottingham Forest FC,Brentford FC
+610422050088a3aaba5d,en.1,2026-27,2027-02-06,Brighton & Hove Albion FC,Hull City AFC
+6b941d70d5e0f4de6949,en.1,2026-27,2027-02-06,Fulham FC,Manchester City FC
+71d68f2a4e51a3197d88,en.1,2026-27,2027-02-06,Everton FC,Newcastle United FC
+9473db30093065214f9a,en.1,2026-27,2027-02-06,Ipswich Town FC,Tottenham Hotspur FC
+ac3ce2fc9d8b9af6765b,en.1,2026-27,2027-02-06,Manchester United FC,Chelsea FC
+c75b5b97f2d8d90bc3d5,en.1,2026-27,2027-02-06,Sunderland AFC,Aston Villa FC
+fcafa508d6209e9baa1c,en.1,2026-27,2027-02-06,Arsenal FC,Liverpool FC
+053ecc512cbefe4c726a,it.1,2026-27,2027-02-06,Atalanta BC,SS Lazio
+098888740722438ff110,it.1,2026-27,2027-02-06,US Lecce,SSC Napoli
+3470c7611ff06c3a4b40,it.1,2026-27,2027-02-06,ACF Fiorentina,Udinese Calcio
+51a7fad64a1cb0f2183f,it.1,2026-27,2027-02-06,AS Roma,Torino FC
+7944031981344d2b7a91,it.1,2026-27,2027-02-06,Como 1907,AC Monza
+b0355c26dc8855612a78,it.1,2026-27,2027-02-06,Parma Calcio 1913,Frosinone Calcio
+b4afe13d21e823481867,it.1,2026-27,2027-02-06,Juventus FC,US Sassuolo Calcio
+d10653a65636b563e892,it.1,2026-27,2027-02-06,FC Internazionale Milano,Cagliari Calcio
+e8264ff5aadb6d7b6c87,it.1,2026-27,2027-02-06,Venezia FC,Genoa CFC
+edfa7f6faec7835c0ea9,it.1,2026-27,2027-02-06,Bologna FC 1909,AC Milan
+0ec088560930e7407669,es.1,2026-27,2027-02-07,Getafe CF,Villarreal CF
+1f8be2d2f91d748368ae,es.1,2026-27,2027-02-07,FC Barcelona,Club Atlético de Madrid
+30c6416a5b79d525e5c2,es.1,2026-27,2027-02-07,Real Sociedad de Fútbol,Real Madrid CF
+3dd91281498e7982efe9,es.1,2026-27,2027-02-07,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid
+5696c580e193b8a3a443,es.1,2026-27,2027-02-07,Deportivo Alavés,RC Celta de Vigo
+696855848fa831912a9f,es.1,2026-27,2027-02-07,Real Betis Balompié,Sevilla FC
+7f3daad23eef2142c55b,es.1,2026-27,2027-02-07,Elche CF,Levante UD
+8560d2ded6b4ad041ef7,es.1,2026-27,2027-02-07,Athletic Club,CA Osasuna
+c93f30ed2419f8ae2ee0,es.1,2026-27,2027-02-07,RC Deportivo La Coruña,Málaga CF
+c9f3bd01181307a6cbf5,es.1,2026-27,2027-02-07,Valencia CF,Real Racing Club de Santander
+0cca7e2ac94e9f9972d9,en.1,2026-27,2027-02-10,Aston Villa FC,AFC Bournemouth
+5c3fabc0466b646e8b48,en.1,2026-27,2027-02-10,Ipswich Town FC,Arsenal FC
+881669c5caa53e953659,en.1,2026-27,2027-02-10,Everton FC,Leeds United FC
+9095f86378d914880f69,en.1,2026-27,2027-02-10,Newcastle United FC,Chelsea FC
+973edb79447a128ea05b,en.1,2026-27,2027-02-10,Fulham FC,Nottingham Forest FC
+9dd357d03b6183aea4fe,en.1,2026-27,2027-02-10,Coventry City FC,Liverpool FC
+be1cbc6d7b1fcf3e5f5c,en.1,2026-27,2027-02-10,Tottenham Hotspur FC,Manchester City FC
+e25244f735cf6279b5d0,en.1,2026-27,2027-02-10,Crystal Palace FC,Brentford FC
+f9c22803e4a3380f9383,en.1,2026-27,2027-02-10,Manchester United FC,Brighton & Hove Albion FC
+faaf8c44af308e867e87,en.1,2026-27,2027-02-10,Hull City AFC,Sunderland AFC
+05f46c6c6039f02dd53d,fr.1,2026-27,2027-02-12,Olympique Lyonnais,Racing Club de Lens
+179612e1a6416717f4ac,fr.1,2026-27,2027-02-12,Le Mans FC,Paris Saint-Germain FC
+2bfa52f41bc8fa4d0b6f,fr.1,2026-27,2027-02-12,Paris FC,ES Troyes AC
+2e7f70d8d299a9cfb00b,fr.1,2026-27,2027-02-12,AJ Auxerre,RC Strasbourg Alsace
+887b414ac2fda8bee257,fr.1,2026-27,2027-02-12,Lille OSC,OGC Nice
+d528ea5629a6add65046,fr.1,2026-27,2027-02-12,FC Lorient,Le Havre AC
+d5ea60536846257ffd75,fr.1,2026-27,2027-02-12,Stade Brestois 29,Stade Rennais FC 1901
+d8a46fb5d83c4fe29546,fr.1,2026-27,2027-02-12,Toulouse FC,AS Monaco FC
+e647b6bd24bd26b25e14,fr.1,2026-27,2027-02-12,Olympique de Marseille,Angers SCO
+10b7bc36a9ec0bfe1be4,de.1,2026-27,2027-02-13,RB Leipzig,Bayer 04 Leverkusen
+500f3729ff9424c234fc,de.1,2026-27,2027-02-13,SC Freiburg,Eintracht Frankfurt
+587afbdd2086da670d49,de.1,2026-27,2027-02-13,SV 07 Elversberg,FC Schalke 04
+73c64e4db78796fb0550,de.1,2026-27,2027-02-13,FC Augsburg,SV Werder Bremen
+86230048b0e88f686941,de.1,2026-27,2027-02-13,TSG 1899 Hoffenheim,SC Paderborn 07
+a81353d6d2501d193557,de.1,2026-27,2027-02-13,1. FSV Mainz 05,Borussia Mönchengladbach
+ac0f6ad2058056450392,de.1,2026-27,2027-02-13,1. FC Union Berlin,FC Bayern München
+bc7e7736cddd550bde8d,de.1,2026-27,2027-02-13,1. FC Köln,Hamburger SV
+f47ede280328774bdf84,de.1,2026-27,2027-02-13,Borussia Dortmund,VfB Stuttgart
+2e240ab0ca361243ae9e,it.1,2026-27,2027-02-13,FC Internazionale Milano,AC Milan
+3f59d4c172d50dac8e02,it.1,2026-27,2027-02-13,AS Roma,Parma Calcio 1913
+6f7b9da275bbc5bf3875,it.1,2026-27,2027-02-13,Genoa CFC,Atalanta BC
+81ce45ebc2299a1940b2,it.1,2026-27,2027-02-13,Udinese Calcio,Venezia FC
+865234c320a7d61fa38f,it.1,2026-27,2027-02-13,Torino FC,US Sassuolo Calcio
+b8b467c02dac7f7cb104,it.1,2026-27,2027-02-13,Cagliari Calcio,SS Lazio
+ca37bbc27e807100d0a4,it.1,2026-27,2027-02-13,SSC Napoli,Juventus FC
+e342b94d38877f09a11c,it.1,2026-27,2027-02-13,AC Monza,US Lecce
+e856863cdc8256e3e90e,it.1,2026-27,2027-02-13,Bologna FC 1909,Como 1907
+e9efdb7a5433e6bfef36,it.1,2026-27,2027-02-13,Frosinone Calcio,ACF Fiorentina
+09b0f5b1709a00d4e0a8,es.1,2026-27,2027-02-14,Elche CF,RC Deportivo La Coruña
+1902c120c85b8f33f470,es.1,2026-27,2027-02-14,Real Madrid CF,Athletic Club
+409e9b26c6b9cec239a1,es.1,2026-27,2027-02-14,RC Celta de Vigo,Rayo Vallecano de Madrid
+4818f739ae77d27cfb97,es.1,2026-27,2027-02-14,Sevilla FC,RCD Espanyol de Barcelona
+720ac6cdec7fa3db91ec,es.1,2026-27,2027-02-14,Levante UD,Málaga CF
+9c91a912357de21139dc,es.1,2026-27,2027-02-14,Valencia CF,Deportivo Alavés
+9f4bec4b7fc949e9dba2,es.1,2026-27,2027-02-14,Real Sociedad de Fútbol,Real Betis Balompié
+bbb004f3dcc18acdcdbb,es.1,2026-27,2027-02-14,Real Racing Club de Santander,Getafe CF
+cb133296a71b4841f7db,es.1,2026-27,2027-02-14,Villarreal CF,FC Barcelona
+df45890507b853807595,es.1,2026-27,2027-02-14,CA Osasuna,Club Atlético de Madrid
+24357625276b018cc281,fr.1,2026-27,2027-02-19,Angers SCO,Paris FC
+510ac40ffc288ac26bac,fr.1,2026-27,2027-02-19,Stade Rennais FC 1901,Toulouse FC
+74d9115e5a6d9a0273a8,fr.1,2026-27,2027-02-19,RC Strasbourg Alsace,Olympique de Marseille
+b5c83d40a5aa3cc1e5e4,fr.1,2026-27,2027-02-19,OGC Nice,AJ Auxerre
+beefb5bdccde11072269,fr.1,2026-27,2027-02-19,Le Havre AC,Olympique Lyonnais
+c437e4dc69cac246ae7a,fr.1,2026-27,2027-02-19,Racing Club de Lens,ES Troyes AC
+d9bc18d96cc0cc6c1484,fr.1,2026-27,2027-02-19,Lille OSC,FC Lorient
+e7dfe27bd67f9225bebe,fr.1,2026-27,2027-02-19,AS Monaco FC,Le Mans FC
+ef91e1a21c6f25337d74,fr.1,2026-27,2027-02-19,Paris Saint-Germain FC,Stade Brestois 29
+029d3ae2ac938f1f7683,de.1,2026-27,2027-02-20,SV 07 Elversberg,1. FC Union Berlin
+46653a8a4bbda07b14f5,de.1,2026-27,2027-02-20,SV Werder Bremen,Borussia Dortmund
+58735de7800d165cb3fc,de.1,2026-27,2027-02-20,Bayer 04 Leverkusen,1. FSV Mainz 05
+67cf0d39a84ae89d1504,de.1,2026-27,2027-02-20,VfB Stuttgart,SC Paderborn 07
+693db8d33c570ca776fc,de.1,2026-27,2027-02-20,FC Schalke 04,SC Freiburg
+6f3ad8b5f19e4e660337,de.1,2026-27,2027-02-20,Eintracht Frankfurt,RB Leipzig
+709e80d4d483d4313f33,de.1,2026-27,2027-02-20,FC Bayern München,FC Augsburg
+894c904a580d868f29eb,de.1,2026-27,2027-02-20,Hamburger SV,TSG 1899 Hoffenheim
+c596cc01ecf766b56025,de.1,2026-27,2027-02-20,Borussia Mönchengladbach,1. FC Köln
+040595a29c3f57dc9794,en.1,2026-27,2027-02-20,Leeds United FC,Aston Villa FC
+147fcca1bd63d549345e,en.1,2026-27,2027-02-20,Arsenal FC,Fulham FC
+1cbe6e8313526aa17346,en.1,2026-27,2027-02-20,Nottingham Forest FC,Manchester United FC
+2ea518b1d4719a4b9af6,en.1,2026-27,2027-02-20,Sunderland AFC,Everton FC
+5cd339aca4f57588aa30,en.1,2026-27,2027-02-20,AFC Bournemouth,Crystal Palace FC
+7375e81f7a3285ec9c4c,en.1,2026-27,2027-02-20,Chelsea FC,Ipswich Town FC
+89bc313661ffb337f10e,en.1,2026-27,2027-02-20,Manchester City FC,Newcastle United FC
+a7d4d44a4d4ac832666e,en.1,2026-27,2027-02-20,Brighton & Hove Albion FC,Tottenham Hotspur FC
+af03fa67b8a202b1b7be,en.1,2026-27,2027-02-20,Liverpool FC,Hull City AFC
+fb29adcbde0aefacfe79,en.1,2026-27,2027-02-20,Brentford FC,Coventry City FC
+0d5fa9e60f1d992bc746,it.1,2026-27,2027-02-20,Venezia FC,Cagliari Calcio
+34b1ae7f58a629743ef0,it.1,2026-27,2027-02-20,AC Milan,Genoa CFC
+3a8f98364da79057b183,it.1,2026-27,2027-02-20,ACF Fiorentina,FC Internazionale Milano
+51f907ecf898e565b7b7,it.1,2026-27,2027-02-20,Atalanta BC,AC Monza
+6e6d59b69bca80a93d61,it.1,2026-27,2027-02-20,US Sassuolo Calcio,AS Roma
+6f7706ac5f34d7ee196a,it.1,2026-27,2027-02-20,Udinese Calcio,Parma Calcio 1913
+75073ed36aadf421c3a8,it.1,2026-27,2027-02-20,US Lecce,Frosinone Calcio
+b54c3ab0ad6300ca059e,it.1,2026-27,2027-02-20,SS Lazio,SSC Napoli
+f2553b0bebbd7e865f86,it.1,2026-27,2027-02-20,Como 1907,Torino FC
+fdf1d52a0101a1257b2b,it.1,2026-27,2027-02-20,Juventus FC,Bologna FC 1909
+107dbcc3c6ffa2df7fa7,es.1,2026-27,2027-02-21,Rayo Vallecano de Madrid,Getafe CF
+183429030cb1cf28aad5,es.1,2026-27,2027-02-21,Málaga CF,Real Betis Balompié
+551fdaf6c14e13426c36,es.1,2026-27,2027-02-21,RC Deportivo La Coruña,Real Sociedad de Fútbol
+5bde6aa1e40deb6d9b0b,es.1,2026-27,2027-02-21,FC Barcelona,Levante UD
+8bc257ef5ecf78bf3427,es.1,2026-27,2027-02-21,RCD Espanyol de Barcelona,CA Osasuna
+b898c705f23095acf2c0,es.1,2026-27,2027-02-21,Club Atlético de Madrid,Elche CF
+caac2db8ce5ff158385b,es.1,2026-27,2027-02-21,Athletic Club,RC Celta de Vigo
+cfb54b7645d507022bdb,es.1,2026-27,2027-02-21,Villarreal CF,Valencia CF
+d4797968cc8c55cb5255,es.1,2026-27,2027-02-21,Deportivo Alavés,Real Racing Club de Santander
+fb8d248deb59b20bd99e,es.1,2026-27,2027-02-21,Sevilla FC,Real Madrid CF
+12d2c14fcd342cfea43d,fr.1,2026-27,2027-02-26,Paris Saint-Germain FC,Racing Club de Lens
+16217d14131dbb6b2bf6,fr.1,2026-27,2027-02-26,ES Troyes AC,OGC Nice
+2478a37c64e60f99c08f,fr.1,2026-27,2027-02-26,RC Strasbourg Alsace,Le Havre AC
+4331358d9c033b7969d3,fr.1,2026-27,2027-02-26,Olympique de Marseille,Stade Rennais FC 1901
+466f1d7426cee9cebae8,fr.1,2026-27,2027-02-26,Olympique Lyonnais,Toulouse FC
+66ceeb7a0efa4bc1c2cb,fr.1,2026-27,2027-02-26,AJ Auxerre,Lille OSC
+d4aa4a35bedda0f9ad5e,fr.1,2026-27,2027-02-26,Stade Brestois 29,AS Monaco FC
+daee920486263b455c5e,fr.1,2026-27,2027-02-26,Le Mans FC,Paris FC
+f21fc994b0e43d039a73,fr.1,2026-27,2027-02-26,FC Lorient,Angers SCO
+05a787f785eac74bc86f,de.1,2026-27,2027-02-27,FC Augsburg,SV 07 Elversberg
+33b9e83b8b0155232823,de.1,2026-27,2027-02-27,1. FC Köln,Eintracht Frankfurt
+34f06feaa8d0c0d4b866,de.1,2026-27,2027-02-27,1. FSV Mainz 05,FC Schalke 04
+85c692f5d0511d6b8212,de.1,2026-27,2027-02-27,VfB Stuttgart,Hamburger SV
+9a6c99c8da5e8f7d9b05,de.1,2026-27,2027-02-27,TSG 1899 Hoffenheim,Borussia Mönchengladbach
+b744fe58aabab2f5e437,de.1,2026-27,2027-02-27,SC Paderborn 07,SV Werder Bremen
+b97ef87e493617a8601e,de.1,2026-27,2027-02-27,RB Leipzig,FC Bayern München
+e389e188ba416f006f1c,de.1,2026-27,2027-02-27,Borussia Dortmund,1. FC Union Berlin
+f0797def8495d4489bab,de.1,2026-27,2027-02-27,SC Freiburg,Bayer 04 Leverkusen
+1eca500c42dc8c8c12c4,en.1,2026-27,2027-02-27,Fulham FC,Leeds United FC
+567769598ffca9cd3849,en.1,2026-27,2027-02-27,Hull City AFC,Manchester City FC
+7ef25e5afa67f8d488df,en.1,2026-27,2027-02-27,Crystal Palace FC,Sunderland AFC
+7fd610d79b0a0fb219bb,en.1,2026-27,2027-02-27,Aston Villa FC,Chelsea FC
+83b021892c7b577513e5,en.1,2026-27,2027-02-27,Manchester United FC,Arsenal FC
+90b5aa1d83096a6d9e0f,en.1,2026-27,2027-02-27,Everton FC,Nottingham Forest FC
+9345ae3500b03438a0e1,en.1,2026-27,2027-02-27,Ipswich Town FC,Brighton & Hove Albion FC
+9ca9c7238da7a64222f8,en.1,2026-27,2027-02-27,Tottenham Hotspur FC,Liverpool FC
+df4f00a6481f86b49df3,en.1,2026-27,2027-02-27,Newcastle United FC,Brentford FC
+f01c247dd0733ec7b438,en.1,2026-27,2027-02-27,Coventry City FC,AFC Bournemouth
+04f62628d75f49ef27a4,it.1,2026-27,2027-02-27,Frosinone Calcio,SSC Napoli
+1260c12a2589abd06624,it.1,2026-27,2027-02-27,Parma Calcio 1913,US Sassuolo Calcio
+23a4f115aba401ab0bd8,it.1,2026-27,2027-02-27,Como 1907,AC Milan
+31cde576c3e15c4b7026,it.1,2026-27,2027-02-27,Cagliari Calcio,Udinese Calcio
+77874afe5d3ef07e6bbe,it.1,2026-27,2027-02-27,FC Internazionale Milano,Atalanta BC
+bac874201138c9b92588,it.1,2026-27,2027-02-27,Torino FC,ACF Fiorentina
+c1042d7d37bdcfc257f4,it.1,2026-27,2027-02-27,Genoa CFC,SS Lazio
+c6a9c0606e7c38f3f1b4,it.1,2026-27,2027-02-27,Bologna FC 1909,US Lecce
+f2caaadd3deeedc87928,it.1,2026-27,2027-02-27,AC Monza,Juventus FC
+fdc391b2cf2d4f80acd5,it.1,2026-27,2027-02-27,AS Roma,Venezia FC
+0bab619680d57ddcc231,es.1,2026-27,2027-02-28,Real Betis Balompié,Villarreal CF
+0f48ac841eb7955166b7,es.1,2026-27,2027-02-28,Getafe CF,Deportivo Alavés
+523bf2355c259657330c,es.1,2026-27,2027-02-28,CA Osasuna,Sevilla FC
+628a940bcbfda6e03018,es.1,2026-27,2027-02-28,Athletic Club,FC Barcelona
+6d6216eb829e02010327,es.1,2026-27,2027-02-28,RC Celta de Vigo,RCD Espanyol de Barcelona
+badd5e6aa9cf64de7735,es.1,2026-27,2027-02-28,Real Racing Club de Santander,Rayo Vallecano de Madrid
+d6c1a251bb7ea3f38a28,es.1,2026-27,2027-02-28,Real Madrid CF,Valencia CF
+d9c826b970a96ef688e1,es.1,2026-27,2027-02-28,Levante UD,RC Deportivo La Coruña
+dd12ef595a3eb4abf290,es.1,2026-27,2027-02-28,Málaga CF,Club Atlético de Madrid
+eca3203da2d0762f8bf8,es.1,2026-27,2027-02-28,Real Sociedad de Fútbol,Elche CF
+01db109ef9d4bb33a7f0,de.1,2026-27,2027-03-02,FC Schalke 04,1. FC Köln
+0d904d7c452df02b53d6,de.1,2026-27,2027-03-02,1. FC Union Berlin,FC Augsburg
+5003caa78304272a13a7,de.1,2026-27,2027-03-02,Hamburger SV,SC Paderborn 07
+6d54e6fabdd2c8f1678f,de.1,2026-27,2027-03-02,Borussia Mönchengladbach,VfB Stuttgart
+8a549a476723376f276e,de.1,2026-27,2027-03-02,Eintracht Frankfurt,Borussia Dortmund
+bf41041b31a893497274,de.1,2026-27,2027-03-02,Bayer 04 Leverkusen,TSG 1899 Hoffenheim
+c115ba82f7336b3634d9,de.1,2026-27,2027-03-02,SV Werder Bremen,1. FSV Mainz 05
+e7ecc544d65bc0a2f53a,de.1,2026-27,2027-03-02,SV 07 Elversberg,RB Leipzig
+f4163a7fed6db63b104e,de.1,2026-27,2027-03-02,FC Bayern München,SC Freiburg
+009f76ce13591a0b294f,en.1,2026-27,2027-03-03,AFC Bournemouth,Tottenham Hotspur FC
+1e7e8478800c750cbdc0,en.1,2026-27,2027-03-03,Sunderland AFC,Manchester United FC
+6ac82c9e1171c22b28eb,en.1,2026-27,2027-03-03,Brighton & Hove Albion FC,Fulham FC
+79a9bbf09fc538d2f4c2,en.1,2026-27,2027-03-03,Leeds United FC,Hull City AFC
+8eeab7a16da84a12f8e6,en.1,2026-27,2027-03-03,Liverpool FC,Aston Villa FC
+b1008b89e1a27f3f3e01,en.1,2026-27,2027-03-03,Arsenal FC,Crystal Palace FC
+c85c26019812605b027f,en.1,2026-27,2027-03-03,Brentford FC,Ipswich Town FC
+d8ccc3c1b5d72eda272f,en.1,2026-27,2027-03-03,Nottingham Forest FC,Newcastle United FC
+e03cc423e16273aa644a,en.1,2026-27,2027-03-03,Chelsea FC,Coventry City FC
+e41312829c3705a3eb5f,en.1,2026-27,2027-03-03,Manchester City FC,Everton FC
+078d33a8ae04b628fb68,fr.1,2026-27,2027-03-05,Le Havre AC,OGC Nice
+2b29b451f9ee2086a904,fr.1,2026-27,2027-03-05,Toulouse FC,Le Mans FC
+4bf920af8f9cef0e8c81,fr.1,2026-27,2027-03-05,Paris FC,Stade Brestois 29
+4c6fd674f70c1de8007c,fr.1,2026-27,2027-03-05,Angers SCO,AJ Auxerre
+c3d2332d729e72079426,fr.1,2026-27,2027-03-05,Lille OSC,Olympique de Marseille
+d1547e0ccd672e5120c7,fr.1,2026-27,2027-03-05,Racing Club de Lens,RC Strasbourg Alsace
+e07fe0d1e0dad6712048,fr.1,2026-27,2027-03-05,AS Monaco FC,Olympique Lyonnais
+fdab6def650e9f43148c,fr.1,2026-27,2027-03-05,ES Troyes AC,FC Lorient
+4cc6ce68a7386f5d006b,de.1,2026-27,2027-03-06,RB Leipzig,FC Schalke 04
+60d1889d4158680c4d2b,de.1,2026-27,2027-03-06,Hamburger SV,Eintracht Frankfurt
+619a68262677fa778cd9,de.1,2026-27,2027-03-06,SC Freiburg,FC Augsburg
+6ab76de7319d7d9004db,de.1,2026-27,2027-03-06,1. FC Köln,1. FC Union Berlin
+8542d564cac67095d364,de.1,2026-27,2027-03-06,VfB Stuttgart,Bayer 04 Leverkusen
+958ad6cdff1de2dbce67,de.1,2026-27,2027-03-06,SC Paderborn 07,Borussia Mönchengladbach
+a11ddf0645100b486c5b,de.1,2026-27,2027-03-06,Borussia Dortmund,FC Bayern München
+a6b93ef02c40e524d7dc,de.1,2026-27,2027-03-06,TSG 1899 Hoffenheim,SV Werder Bremen
+b7de2aba295b5966b07d,de.1,2026-27,2027-03-06,1. FSV Mainz 05,SV 07 Elversberg
+69d58da82be0459050ab,fr.1,2026-27,2027-03-06,Paris Saint-Germain FC,Stade Rennais FC 1901
+20437d0d5e8ab20bec46,it.1,2026-27,2027-03-06,US Lecce,Como 1907
+459fe560342e2f4438b2,it.1,2026-27,2027-03-06,Atalanta BC,Torino FC
+83fb964567a87c3d9981,it.1,2026-27,2027-03-06,SS Lazio,Frosinone Calcio
+88b3f0abe3c3df5300b6,it.1,2026-27,2027-03-06,Udinese Calcio,FC Internazionale Milano
+9e52ab42e3f702c98b37,it.1,2026-27,2027-03-06,AC Milan,Cagliari Calcio
+b713c2b9a1eaf64ba441,it.1,2026-27,2027-03-06,SSC Napoli,Parma Calcio 1913
+c621db0090db9ec50950,it.1,2026-27,2027-03-06,Juventus FC,AS Roma
+cc02807a11670de75ae8,it.1,2026-27,2027-03-06,ACF Fiorentina,Venezia FC
+f07548e73727ac9e8311,it.1,2026-27,2027-03-06,AC Monza,Genoa CFC
+fced4906acbb5382daab,it.1,2026-27,2027-03-06,US Sassuolo Calcio,Bologna FC 1909
+57542df2f21e61d3aaa6,es.1,2026-27,2027-03-07,Club Atlético de Madrid,RC Celta de Vigo
+6904ae999816b38f1666,es.1,2026-27,2027-03-07,RC Deportivo La Coruña,Getafe CF
+86155cedb336d24628c3,es.1,2026-27,2027-03-07,Deportivo Alavés,Athletic Club
+a173674364cada3993b2,es.1,2026-27,2027-03-07,Elche CF,Málaga CF
+a4d0a748d8e9b0ed03f6,es.1,2026-27,2027-03-07,Valencia CF,Levante UD
+a4ea1c9ad7e55a13742f,es.1,2026-27,2027-03-07,RCD Espanyol de Barcelona,Real Racing Club de Santander
+abec1e2f545332282a4d,es.1,2026-27,2027-03-07,Rayo Vallecano de Madrid,CA Osasuna
+b12abab56e8af803084c,es.1,2026-27,2027-03-07,Villarreal CF,Real Madrid CF
+dcb41d318176e65f05ea,es.1,2026-27,2027-03-07,Sevilla FC,Real Sociedad de Fútbol
+e980379c5f45c54292b6,es.1,2026-27,2027-03-07,FC Barcelona,Real Betis Balompié
+1ace0d66fadf617ac78d,fr.1,2026-27,2027-03-12,Stade Brestois 29,Lille OSC
+29ca7d5d7076a9e11a94,fr.1,2026-27,2027-03-12,Le Havre AC,Racing Club de Lens
+34d88449542f5f25817a,fr.1,2026-27,2027-03-12,Olympique de Marseille,AS Monaco FC
+3d247108e231412e28a3,fr.1,2026-27,2027-03-12,Paris FC,FC Lorient
+502ad802c8c709c92a06,fr.1,2026-27,2027-03-12,Le Mans FC,Stade Rennais FC 1901
+702c2980991bdebd7196,fr.1,2026-27,2027-03-12,Olympique Lyonnais,ES Troyes AC
+8273f3c230d58b1fd166,fr.1,2026-27,2027-03-12,OGC Nice,Toulouse FC
+85210d41042743729411,fr.1,2026-27,2027-03-12,RC Strasbourg Alsace,Angers SCO
+d552b12d060c08212d7a,fr.1,2026-27,2027-03-12,AJ Auxerre,Paris Saint-Germain FC
+007d82003050adb15fc2,de.1,2026-27,2027-03-13,Eintracht Frankfurt,SC Paderborn 07
+2c3c3b3cd3d877d500b7,de.1,2026-27,2027-03-13,SV Werder Bremen,VfB Stuttgart
+336d1482a02690be0dd5,de.1,2026-27,2027-03-13,FC Schalke 04,TSG 1899 Hoffenheim
+3507fc212c2d7580ae89,de.1,2026-27,2027-03-13,1. FC Union Berlin,SC Freiburg
+4bf44d14d3804928d68f,de.1,2026-27,2027-03-13,SV 07 Elversberg,Borussia Dortmund
+6a3d39693acaf4ed9dea,de.1,2026-27,2027-03-13,Borussia Mönchengladbach,Hamburger SV
+a36191022fd1a19ec1c2,de.1,2026-27,2027-03-13,Bayer 04 Leverkusen,1. FC Köln
+e45dd752e24d1de0059d,de.1,2026-27,2027-03-13,FC Bayern München,1. FSV Mainz 05
+fba05b6f1492c1b5824c,de.1,2026-27,2027-03-13,FC Augsburg,RB Leipzig
+1221178d34366399b64b,en.1,2026-27,2027-03-13,Sunderland AFC,Brentford FC
+345e9877bc6a05e65be4,en.1,2026-27,2027-03-13,Liverpool FC,Ipswich Town FC
+4bc6eadc29b4be8319dc,en.1,2026-27,2027-03-13,Coventry City FC,Manchester City FC
+4f84f8f60485924f6733,en.1,2026-27,2027-03-13,AFC Bournemouth,Newcastle United FC
+7cb4aa9237eb9f4bbf10,en.1,2026-27,2027-03-13,Leeds United FC,Brighton & Hove Albion FC
+9a91870a1803cd43015e,en.1,2026-27,2027-03-13,Tottenham Hotspur FC,Nottingham Forest FC
+dc91aa0f5b69664996b3,en.1,2026-27,2027-03-13,Crystal Palace FC,Fulham FC
+de15f9fdefbddc4d4d18,en.1,2026-27,2027-03-13,Manchester United FC,Everton FC
+deac973e64c43218cd8b,en.1,2026-27,2027-03-13,Aston Villa FC,Hull City AFC
+e46342428289705ea316,en.1,2026-27,2027-03-13,Chelsea FC,Arsenal FC
+0441a23a9d974e7f6f00,it.1,2026-27,2027-03-13,AC Milan,US Sassuolo Calcio
+37133fcf701046e1207e,it.1,2026-27,2027-03-13,SS Lazio,Juventus FC
+402100ff2ff7805e0209,it.1,2026-27,2027-03-13,Cagliari Calcio,ACF Fiorentina
+7a26d153481a782ab7a6,it.1,2026-27,2027-03-13,Bologna FC 1909,SSC Napoli
+85581112e1907f2907a4,it.1,2026-27,2027-03-13,Genoa CFC,AS Roma
+86c06b9482e9036dc52c,it.1,2026-27,2027-03-13,Parma Calcio 1913,US Lecce
+87e22001027814abaadd,it.1,2026-27,2027-03-13,Como 1907,Udinese Calcio
+a48e7c3c973f5f8e8093,it.1,2026-27,2027-03-13,Venezia FC,Atalanta BC
+cb8669690bab163af5cf,it.1,2026-27,2027-03-13,Torino FC,FC Internazionale Milano
+f21b0f8e2544793abf87,it.1,2026-27,2027-03-13,Frosinone Calcio,AC Monza
+07ed15b991e4fa21e022,es.1,2026-27,2027-03-14,Málaga CF,Rayo Vallecano de Madrid
+31771723204afd7265e3,es.1,2026-27,2027-03-14,Elche CF,Villarreal CF
+3bf1470ffe63c6e06fdd,es.1,2026-27,2027-03-14,Real Betis Balompié,Levante UD
+4ad4311fdd8cb49384ad,es.1,2026-27,2027-03-14,Deportivo Alavés,Sevilla FC
+68bd290274255d518e59,es.1,2026-27,2027-03-14,Getafe CF,Real Sociedad de Fútbol
+8d68abe11b551180fc68,es.1,2026-27,2027-03-14,CA Osasuna,RC Celta de Vigo
+bbb7cb2151117b53231f,es.1,2026-27,2027-03-14,Athletic Club,Valencia CF
+bfbc4ae4cca0b0d7ed98,es.1,2026-27,2027-03-14,Real Madrid CF,RCD Espanyol de Barcelona
+ccd2082bc13fb4316feb,es.1,2026-27,2027-03-14,FC Barcelona,RC Deportivo La Coruña
+f112919242798d4dd8c0,es.1,2026-27,2027-03-14,Real Racing Club de Santander,Club Atlético de Madrid
+31e27baf9f8fd99bf079,fr.1,2026-27,2027-03-19,FC Lorient,OGC Nice
+4e8764598b43b9f84573,fr.1,2026-27,2027-03-19,Racing Club de Lens,Lille OSC
+72a6c3ed078b1f698e91,fr.1,2026-27,2027-03-19,Paris Saint-Germain FC,RC Strasbourg Alsace
+7771c6ce930241e529a3,fr.1,2026-27,2027-03-19,Angers SCO,Le Mans FC
+9822e7bc8d8c9c03f77b,fr.1,2026-27,2027-03-19,Stade Rennais FC 1901,Paris FC
+9bd74804ae81b6a1fd99,fr.1,2026-27,2027-03-19,Olympique de Marseille,Olympique Lyonnais
+b513134b50ea5e0b8579,fr.1,2026-27,2027-03-19,Toulouse FC,Stade Brestois 29
+cb798674523c21789f14,fr.1,2026-27,2027-03-19,ES Troyes AC,AJ Auxerre
+fb6b4ac51e3de419279f,fr.1,2026-27,2027-03-19,AS Monaco FC,Le Havre AC
+06da43a06b6e892bfb0e,de.1,2026-27,2027-03-20,SC Paderborn 07,Bayer 04 Leverkusen
+21271168cd2b5616a833,de.1,2026-27,2027-03-20,Hamburger SV,SV Werder Bremen
+41e50adaa31f1c939188,de.1,2026-27,2027-03-20,1. FC Köln,FC Bayern München
+5dde534d2fdb7ff5f2bf,de.1,2026-27,2027-03-20,TSG 1899 Hoffenheim,Eintracht Frankfurt
+6d5175a81005209534d8,de.1,2026-27,2027-03-20,Borussia Dortmund,Borussia Mönchengladbach
+8a6e5c4d25c2f9ab7fad,de.1,2026-27,2027-03-20,SC Freiburg,SV 07 Elversberg
+c38793cd81876db4c935,de.1,2026-27,2027-03-20,1. FSV Mainz 05,FC Augsburg
+c417310c3defc4ac15ac,de.1,2026-27,2027-03-20,RB Leipzig,1. FC Union Berlin
+d625ea4daa187ab3ea49,de.1,2026-27,2027-03-20,VfB Stuttgart,FC Schalke 04
+0d9a104bc0cf68a90bf1,en.1,2026-27,2027-03-20,Brighton & Hove Albion FC,Coventry City FC
+1a312da7c52faf1910e4,en.1,2026-27,2027-03-20,Brentford FC,AFC Bournemouth
+34f9d07db038783223ce,en.1,2026-27,2027-03-20,Nottingham Forest FC,Aston Villa FC
+3c28b589b52873334975,en.1,2026-27,2027-03-20,Arsenal FC,Sunderland AFC
+48436504b4bc53eb5eb5,en.1,2026-27,2027-03-20,Newcastle United FC,Leeds United FC
+4f049fef896871ee175b,en.1,2026-27,2027-03-20,Everton FC,Tottenham Hotspur FC
+5d0778e92200b3772049,en.1,2026-27,2027-03-20,Fulham FC,Liverpool FC
+6dccd4a8a513e8548bf9,en.1,2026-27,2027-03-20,Hull City AFC,Chelsea FC
+82961c9662c1c3784626,en.1,2026-27,2027-03-20,Ipswich Town FC,Crystal Palace FC
+be151b3dca7ff0d23111,en.1,2026-27,2027-03-20,Manchester City FC,Manchester United FC
+02f870910fad035107cc,it.1,2026-27,2027-03-20,FC Internazionale Milano,Frosinone Calcio
+165a47d0ec3a441c76ac,it.1,2026-27,2027-03-20,Atalanta BC,AC Milan
+23a2a9d528a26556f1c1,it.1,2026-27,2027-03-20,US Sassuolo Calcio,Cagliari Calcio
+48c6b08ae5f8c756783f,it.1,2026-27,2027-03-20,ACF Fiorentina,Genoa CFC
+594de10e7da582a5bcc4,it.1,2026-27,2027-03-20,AS Roma,US Lecce
+60c12e122bfff01e33f0,it.1,2026-27,2027-03-20,SSC Napoli,Venezia FC
+80d4462b58ddfde527c1,it.1,2026-27,2027-03-20,Parma Calcio 1913,SS Lazio
+bd862ac34b88b9fed9d4,it.1,2026-27,2027-03-20,Juventus FC,Como 1907
+c0930626b4f8651ff59d,it.1,2026-27,2027-03-20,Udinese Calcio,Torino FC
+ec7a8c3ff3af6dac11b6,it.1,2026-27,2027-03-20,AC Monza,Bologna FC 1909
+0ea05fa393aa75c301af,es.1,2026-27,2027-03-21,Sevilla FC,Elche CF
+74d04251c8f85abd59b5,es.1,2026-27,2027-03-21,Rayo Vallecano de Madrid,FC Barcelona
+834526803537a597d5b5,es.1,2026-27,2027-03-21,Villarreal CF,Málaga CF
+9d3a8b9dd2b96cd0fcab,es.1,2026-27,2027-03-21,Real Sociedad de Fútbol,Deportivo Alavés
+ab82f3dfda0f38fd46de,es.1,2026-27,2027-03-21,RCD Espanyol de Barcelona,Athletic Club
+c6f47a37720378f1b80b,es.1,2026-27,2027-03-21,Valencia CF,RC Deportivo La Coruña
+cb79fa466ef0c13d3d89,es.1,2026-27,2027-03-21,Club Atlético de Madrid,Getafe CF
+dea53aa09e03e017e7b0,es.1,2026-27,2027-03-21,Levante UD,CA Osasuna
+f409fec4a23c06460924,es.1,2026-27,2027-03-21,Real Racing Club de Santander,Real Betis Balompié
+f9f3df149d541b64d540,es.1,2026-27,2027-03-21,RC Celta de Vigo,Real Madrid CF
+02537da82c2da9b43ddc,fr.1,2026-27,2027-04-02,Paris FC,Paris Saint-Germain FC
+46923e50f2b79962b088,fr.1,2026-27,2027-04-02,RC Strasbourg Alsace,Toulouse FC
+5d99e7e3679c3384a5a8,fr.1,2026-27,2027-04-02,AJ Auxerre,Racing Club de Lens
+7f84bf485da6e0a4f418,fr.1,2026-27,2027-04-02,OGC Nice,Olympique Lyonnais
+9adc6d61f5aebc1f46b1,fr.1,2026-27,2027-04-02,Lille OSC,Stade Rennais FC 1901
+c35490ded8c73edad55f,fr.1,2026-27,2027-04-02,Le Havre AC,ES Troyes AC
+e027fbabf3f961fa9a1f,fr.1,2026-27,2027-04-02,Le Mans FC,Olympique de Marseille
+e57fbe63d3492b9ef137,fr.1,2026-27,2027-04-02,Angers SCO,AS Monaco FC
+ffaf33ca73531810cea9,fr.1,2026-27,2027-04-02,Stade Brestois 29,FC Lorient
+1a59320d436d5bc91977,de.1,2026-27,2027-04-03,Borussia Mönchengladbach,SV Werder Bremen
+483c8918551cd74527be,de.1,2026-27,2027-04-03,Eintracht Frankfurt,VfB Stuttgart
+487cbc0d0838e5c26214,de.1,2026-27,2027-04-03,RB Leipzig,SC Freiburg
+79f5656f9578ace7ff94,de.1,2026-27,2027-04-03,FC Schalke 04,SC Paderborn 07
+815c88ea5a121316856c,de.1,2026-27,2027-04-03,FC Bayern München,Hamburger SV
+8fa57e26a2093210d8d1,de.1,2026-27,2027-04-03,FC Augsburg,TSG 1899 Hoffenheim
+a0b0f28666814925f7ea,de.1,2026-27,2027-04-03,1. FC Union Berlin,1. FSV Mainz 05
+b25a7d66a3db03458aa5,de.1,2026-27,2027-04-03,Bayer 04 Leverkusen,Borussia Dortmund
+edd95e69490a7c94b320,de.1,2026-27,2027-04-03,SV 07 Elversberg,1. FC Köln
+19151176b2aefa637dc3,it.1,2026-27,2027-04-03,AS Roma,Bologna FC 1909
+1d08d1a0821dbb352bdb,it.1,2026-27,2027-04-03,Como 1907,ACF Fiorentina
+34845826f9c7c70b3455,it.1,2026-27,2027-04-03,US Lecce,SS Lazio
+84f3e18ff41ef33c1677,it.1,2026-27,2027-04-03,Frosinone Calcio,Udinese Calcio
+90ffc666d314a34b4b82,it.1,2026-27,2027-04-03,US Sassuolo Calcio,Atalanta BC
+9b81e18197a93abc8509,it.1,2026-27,2027-04-03,Genoa CFC,FC Internazionale Milano
+a07352a459e537644794,it.1,2026-27,2027-04-03,Torino FC,Juventus FC
+c5ef6d8e03c660bcfd18,it.1,2026-27,2027-04-03,Venezia FC,Parma Calcio 1913
+c6784cb9caedcabfede9,it.1,2026-27,2027-04-03,AC Milan,AC Monza
+d5965950d0ef4a530167,it.1,2026-27,2027-04-03,Cagliari Calcio,SSC Napoli
+0c1c31907e42bb3793e3,es.1,2026-27,2027-04-04,Real Sociedad de Fútbol,Valencia CF
+0d1b72fc291c1be4e9e3,es.1,2026-27,2027-04-04,Real Betis Balompié,RC Celta de Vigo
+0e18deb1f6a16c1d7cab,es.1,2026-27,2027-04-04,FC Barcelona,Sevilla FC
+41cc7135d926663b0f8f,es.1,2026-27,2027-04-04,RC Deportivo La Coruña,Villarreal CF
+491bfe747d338a0d0045,es.1,2026-27,2027-04-04,Málaga CF,CA Osasuna
+acdc46b3185f0acf16b2,es.1,2026-27,2027-04-04,Athletic Club,Real Racing Club de Santander
+cc69a8962bb21b36f67d,es.1,2026-27,2027-04-04,Real Madrid CF,Club Atlético de Madrid
+e8b5870b2f374b40283e,es.1,2026-27,2027-04-04,Getafe CF,RCD Espanyol de Barcelona
+ea8005bcfba11ba436b1,es.1,2026-27,2027-04-04,Levante UD,Rayo Vallecano de Madrid
+f236bad85f8347d52a5a,es.1,2026-27,2027-04-04,Elche CF,Deportivo Alavés
+09898aad66b55c90c429,fr.1,2026-27,2027-04-09,AS Monaco FC,Stade Rennais FC 1901
+11fb1922d6f67543f48c,fr.1,2026-27,2027-04-09,FC Lorient,Racing Club de Lens
+4459bebf4807f5cc3945,fr.1,2026-27,2027-04-09,Olympique Lyonnais,RC Strasbourg Alsace
+6be2aa0daa7e18c4dc95,fr.1,2026-27,2027-04-09,ES Troyes AC,Angers SCO
+710ee1c580441328d2b8,fr.1,2026-27,2027-04-09,Le Mans FC,AJ Auxerre
+734c6d5a11ab32d6246f,fr.1,2026-27,2027-04-09,Olympique de Marseille,Stade Brestois 29
+9b3cb5479fc5a25d7553,fr.1,2026-27,2027-04-09,Lille OSC,Toulouse FC
+b62382322fdb72aa54f0,fr.1,2026-27,2027-04-09,OGC Nice,Paris FC
+e7808fd347b1e41ebf08,fr.1,2026-27,2027-04-09,Paris Saint-Germain FC,Le Havre AC
+09fd8cff20574b64434b,de.1,2026-27,2027-04-10,1. FC Köln,FC Augsburg
+3596fb0bf1b969d97a50,de.1,2026-27,2027-04-10,Borussia Mönchengladbach,Bayer 04 Leverkusen
+5b7d2a080861fdeb6346,de.1,2026-27,2027-04-10,Borussia Dortmund,FC Schalke 04
+5d207cbe8cd4a899b323,de.1,2026-27,2027-04-10,TSG 1899 Hoffenheim,SC Freiburg
+72b1fbe343391cbd307a,de.1,2026-27,2027-04-10,VfB Stuttgart,SV 07 Elversberg
+8881136c22abd16ccb76,de.1,2026-27,2027-04-10,1. FSV Mainz 05,RB Leipzig
+963aab10640e4f7b5f40,de.1,2026-27,2027-04-10,SV Werder Bremen,Eintracht Frankfurt
+bd908478d92e80847ca8,de.1,2026-27,2027-04-10,Hamburger SV,1. FC Union Berlin
+fa1115ab4d7e1cff3d78,de.1,2026-27,2027-04-10,SC Paderborn 07,FC Bayern München
+0346d0b26c154ba09f46,en.1,2026-27,2027-04-10,Chelsea FC,Fulham FC
+060fc76332b0bd26ddc6,en.1,2026-27,2027-04-10,Manchester United FC,Hull City AFC
+1a09bb00adf3542c35a8,en.1,2026-27,2027-04-10,Tottenham Hotspur FC,Brentford FC
+4565cca830281f0a63d6,en.1,2026-27,2027-04-10,Coventry City FC,Arsenal FC
+55bd0d0cb20b0d6daa18,en.1,2026-27,2027-04-10,Crystal Palace FC,Everton FC
+784b4eb5c8b79e5e93d4,en.1,2026-27,2027-04-10,Sunderland AFC,Ipswich Town FC
+a4b74c8f5e989ed05512,en.1,2026-27,2027-04-10,AFC Bournemouth,Manchester City FC
+bf196aede91c740f0e69,en.1,2026-27,2027-04-10,Liverpool FC,Newcastle United FC
+ef4e4bdeefb10a88f40d,en.1,2026-27,2027-04-10,Leeds United FC,Nottingham Forest FC
+fd58877a3e337fe74db7,en.1,2026-27,2027-04-10,Aston Villa FC,Brighton & Hove Albion FC
+01d972b3f93ca0d53525,it.1,2026-27,2027-04-10,SS Lazio,Torino FC
+115caec68474641297a0,it.1,2026-27,2027-04-10,Juventus FC,US Lecce
+1c8e291addcb60f743a8,it.1,2026-27,2027-04-10,Udinese Calcio,AC Monza
+2f145d5c18c1c9d0ec6a,it.1,2026-27,2027-04-10,Cagliari Calcio,Atalanta BC
+67b89d1bfd86bc0eab46,it.1,2026-27,2027-04-10,FC Internazionale Milano,AS Roma
+6f83814cb50f229f377e,it.1,2026-27,2027-04-10,Frosinone Calcio,Genoa CFC
+9c85e23d039395a835c2,it.1,2026-27,2027-04-10,Bologna FC 1909,Venezia FC
+cfbe4d800f15fbe54528,it.1,2026-27,2027-04-10,ACF Fiorentina,AC Milan
+e410d47ea4cb7e226ec8,it.1,2026-27,2027-04-10,Parma Calcio 1913,Como 1907
+f80f63a7b89aed7f2e4f,it.1,2026-27,2027-04-10,SSC Napoli,US Sassuolo Calcio
+0a083c8e9f73b502a64b,es.1,2026-27,2027-04-11,CA Osasuna,Real Madrid CF
+22188144b0eb546e2b50,es.1,2026-27,2027-04-11,Real Racing Club de Santander,FC Barcelona
+44006651aa3f8aaf9f1c,es.1,2026-27,2027-04-11,RCD Espanyol de Barcelona,Málaga CF
+4dfff53855f21faae081,es.1,2026-27,2027-04-11,Deportivo Alavés,Real Betis Balompié
+6915dc81d0eb48114210,es.1,2026-27,2027-04-11,Club Atlético de Madrid,Levante UD
+8139430f10abf8ee47f4,es.1,2026-27,2027-04-11,Sevilla FC,RC Deportivo La Coruña
+a039d8d5d92490c581f8,es.1,2026-27,2027-04-11,Villarreal CF,Athletic Club
+ba0b766cc34953cf783d,es.1,2026-27,2027-04-11,Valencia CF,Getafe CF
+c11e80f0dcf86e0c153b,es.1,2026-27,2027-04-11,RC Celta de Vigo,Elche CF
+d17c945bbfe4a767793b,es.1,2026-27,2027-04-11,Rayo Vallecano de Madrid,Real Sociedad de Fútbol
+014f9142b8fbdf0d8774,fr.1,2026-27,2027-04-16,Le Havre AC,Olympique de Marseille
+06b480b9a9a15a6ffd8a,fr.1,2026-27,2027-04-16,Stade Rennais FC 1901,ES Troyes AC
+0aa899a70c8c5e413284,fr.1,2026-27,2027-04-16,Angers SCO,Olympique Lyonnais
+18722d86ff601312edcc,fr.1,2026-27,2027-04-16,Racing Club de Lens,OGC Nice
+2cd402fa90ab770189ea,fr.1,2026-27,2027-04-16,Toulouse FC,Paris FC
+96be401291d451b91430,fr.1,2026-27,2027-04-16,AS Monaco FC,RC Strasbourg Alsace
+9e0490462971f788c7a0,fr.1,2026-27,2027-04-16,Stade Brestois 29,Le Mans FC
+b62e8e25159de0252837,fr.1,2026-27,2027-04-16,Paris Saint-Germain FC,Lille OSC
+b6c6f2162d26723efde8,fr.1,2026-27,2027-04-16,AJ Auxerre,FC Lorient
+18eb47e68f664a9986be,de.1,2026-27,2027-04-17,FC Bayern München,TSG 1899 Hoffenheim
+42ba00d1fb96b15462d4,de.1,2026-27,2027-04-17,FC Augsburg,Borussia Dortmund
+4cda7457e4a1d62de27d,de.1,2026-27,2027-04-17,1. FC Union Berlin,VfB Stuttgart
+5c3b7a292541b81f38ad,de.1,2026-27,2027-04-17,SC Freiburg,1. FSV Mainz 05
+5d67ece1f0e42c5d7b77,de.1,2026-27,2027-04-17,Bayer 04 Leverkusen,SV Werder Bremen
+798c06ce0476f4e983ab,de.1,2026-27,2027-04-17,RB Leipzig,1. FC Köln
+aec561f7cbe67438acd2,de.1,2026-27,2027-04-17,SV 07 Elversberg,SC Paderborn 07
+c9047f223547db110a8a,de.1,2026-27,2027-04-17,FC Schalke 04,Hamburger SV
+d104176c4a13a31f70e1,de.1,2026-27,2027-04-17,Eintracht Frankfurt,Borussia Mönchengladbach
